@@ -1,0 +1,42 @@
+prefix : <http://ns.inria.fr/sparql-micro-service/api#>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#> 
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX schema: <http://schema.org/#>
+prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
+
+
+CONSTRUCT {
+    ?hotel
+        a schema:Hotel;
+        schema:identifier ?hotelId;
+        schema:name ?hotelName;
+        schema:starRating ?hotelStars;
+        schema:price ?price;
+        schema:priceRange ?priceDescription;
+        schema:distance ?distanceFromDowntown;
+        schema:rating ?ratingValue;
+        geo:coordinates ?coords;
+        geo:lat ?latitude;
+        geo:long ?longitude.
+}
+
+WHERE {
+    [] :hotels [
+            :hotelId ?hotelId;
+            :name ?hotelName;
+            :stars ?hotelStars;
+            :price ?price;
+            :priceDescription ?priceDescription;
+            :coordinates ?coords;
+            :distance ?distanceFromDowntown;
+            :rating [
+                :description ?ratingDescription;
+            ]
+        ].
+        # Bind the IRI for the hotel to a variable ?hotel
+        BIND(IRI(CONCAT("http://example.org/hotel/", STR(?hotelId))) AS ?hotel)
+        # Assuming the coordinates are a list with longitude first and latitude second
+        BIND(STRBEFORE(?coords, ",") AS ?longitude)
+        BIND(STRAFTER(?coords, ",") AS ?latitude)
+}
+

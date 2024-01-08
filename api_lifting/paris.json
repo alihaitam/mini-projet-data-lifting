@@ -1,0 +1,3478 @@
+{
+    "searchStatus": {
+        "completionPercentage": 100,
+        "status": "COMPLETED",
+        "searchId": "d4a4d9280dc954831ff87a7d561dc16074dc1c70b4d59a6b00f7b6a9e7e3cdc9",
+        "firstPageStatus": "COMPLETED"
+    },
+    "hotels": [
+        {
+            "hotelId": "46945507",
+            "heroImage": "https://content.skyscnr.com/available/1353501292/1353501292_WxH.jpg",
+            "name": "Dauphine Saint Germain",
+            "stars": 3,
+            "brandIds": [],
+            "distance": "0.45 miles from downtown",
+            "relevantPoiDistance": "0.43 miles from Louvre Museum",
+            "coordinates": [
+                2.3390314,
+                48.8544669
+            ],
+            "price": "$322",
+            "cheapestOfferPartnerId": "h_fd",
+            "cheapestOfferRateId": "ewogICJhZHVsdHMiOiAyLAogICJhdXRob3JpemF0aW9uX2luZm8iOiBbCiAgICB7CiAgICAgICJDb2RlIjogIlB1YmxpY1BhcmFtZXRlciIsCiAgICAgICJWYWx1ZSI6ICJINHNJQUFBQUFBQUFBR1dSVVV2ek1CU0cvMHR1WGVVa3k3cTR1N2twRmdZVzVxNnNTTlpHRFdZOUkwbUZJZnZ2bmpUNnlZY2xGejNQbStROWVjOG5XM2FEaTJ6Qk9KdXdGZmJCaG1qNjlsUjdpOTdHRXltQ2xPcDZkNGZSdUZ2cm92RUVQeHUydEYzREZseVVNSjgwYlBWbTJ2ZXFYK3RvaURaTWdKQUZxSUpEdzM3ayt5SCsxWG5XY2VpalA2Mnd5L0p1bTdISEVIYkIrQkhlTGpmYm04eUhFUEZnZk8zeGFIdzhrZnhJTGYyVUszSjVSWjh3VEg1eE5UWXM1Zm1KNEFaYjdiS1o2WisvL1dxbjR3djZ3NGd0aGhGdTgwT25YTWxadW02TGcyL05mMXQyNDVhR2FlZXM3bHN6cFBxY2c2c3hWR3VLYkhRcDlQRkllRU1OTHIyM0g5bzkySU5KS2YvTDR3SEtCUUN0U3dDNEFFVi9kS0kyUG1CUFkybE5qdC9URmRWNmRBV1JROVJwbGtSRWN0YTJTMk5ONDZIS0hxOGR0dS9mTVZmZGh1Wk1jbG1TNXZCMWJKQ1RuNEQ1bkJlcEdlQ2dZQ2E1VklXU2FnOXQrY0wzUnNncEYxZEN6YWJwbTAzRlhpckR6bCt1NTdHVVNBSUFBQT09IgogICAgfSwKICAgIHsKICAgICAgIkNvZGUiOiAiTWluUHJpY2VfUGFydG5lcl9kYXRhIiwKICAgICAgIlZhbHVlIjogIkg0c0lBQUFBQUFBQUFFMlF3VzZETUF5RzM4Vm5pbUluSWFIWGpjTnVVNmZldUFSS3UwZ1FFRTBucG9wM244TmFxYm41OC8vOXNuS0h3WWZQMmJmZFJ6aVBzSWQ3bmNpVXlEeU9RdzE3SnU3bnNoR2VxRFE2cXlGR3QvQWtOZWJXOEp5eS9zUUVxU0JWb2xFeVVSZTdxWGZoZjZNTGdZS1NQRWJYdnhTcXZMUkNQbnFuNjhSVTVDSzlSOGZtMXlBSWEyRGtUcmMrSm5WTmhoKzZhM1JEc3RBSVZSVFNDS3ZzMWphNzlpa2oxNUV3Qm5ja1NQRWxWbWlGeXU0NDI0aTJPR1BUa1pKSUpWa3QwOU9TR21YNXhoVXlPUHZsd0pkVUlmcjR5NThDNCt3dlByais3VGJQWFdpWlFYVThjUEs1cUpiMjI0VkxCM3VUVzdLbHpxQzlYZU00dkJqSHIzZDQ0dGM4S29QcitnZDNjQ1liblFFQUFBPT0iCiAgICB9LAogICAgewogICAgICAiQ29kZSI6ICJGaXhDaGFuZ2VSYXRlIiwKICAgICAgIlZhbHVlIjogIkg0c0lBQUFBQUFBQUFLdFc4aS9LVE0vTVM4eHhMaTBxU3MxTHJsU3lVbklORFZMU1VmTE56QXNveWt4T0RjclB6d1VLR2hxWkdabFlHcHFiR0FQbDBEVzVWaVJuSk9hbHB3TFZtZXRaR0ZsWW1nSVZPWmNXbCtUbnBoWWhtUndhN0lKRkFrVzNvWW01b1ZJdEFCeE9PMWVZQUFBQSIKICAgIH0KICBdLAogICJtaW5pX3ByaWNlX3Jvb21faWQiOiAiMTI2MjQ5MTc0MyIsCiAgInJhdGVfaWQiOiAiMTI2MjQ5MTc0MyIKfQ==",
+            "rawPrice": 322,
+            "rating": {
+                "description": "Excellent",
+                "count": 1285,
+                "value": "9.0",
+                "color": "colorMonteverde"
+            },
+            "reviewSummary": {
+                "description": "Excellent",
+                "count": 1285,
+                "formatCount": "1,285",
+                "value": "4.5",
+                "formatValue": "4.5",
+                "color": "colorMonteverde",
+                "taImage": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-64600-4.png",
+                "confidenceBadge": {
+                    "type": "location",
+                    "score": 5,
+                    "icon": "thumbs-up",
+                    "color": {
+                        "light": "colorMonteverde",
+                        "dark": "colorMonteverde"
+                    },
+                    "message": "Hotel location is rated 5/5"
+                }
+            },
+            "cheapestOffer": "meta",
+            "offerTypes": "dbookAndMeta",
+            "guestType": null,
+            "exclusiveDealLabel": null,
+            "pricesFrom": "12 prices from",
+            "images": [
+                "https://content.skyscnr.com/available/1353501292/1353501292_WxH.jpg",
+                "https://content.skyscnr.com/available/954317301/954317301_WxH.jpg",
+                "https://content.skyscnr.com/available/954317289/954317289_WxH.jpg"
+            ],
+            "otherRates": [
+                {
+                    "partnerId": "h_ad",
+                    "partnerName": "Agoda",
+                    "rawPrice": 345,
+                    "price": "$345"
+                },
+                {
+                    "partnerId": "h_tt",
+                    "partnerName": "Algotels",
+                    "rawPrice": 376,
+                    "price": "$376"
+                },
+                {
+                    "partnerId": "d_sg",
+                    "partnerName": "Easytrip",
+                    "rawPrice": 378,
+                    "price": "$378"
+                },
+                {
+                    "partnerId": "d_ct",
+                    "partnerName": "Trip.com",
+                    "rawPrice": 378,
+                    "price": "$378"
+                },
+                {
+                    "partnerId": "h_zh",
+                    "partnerName": "ZenHotels",
+                    "rawPrice": 398,
+                    "price": "$398"
+                },
+                {
+                    "partnerId": "h_11",
+                    "partnerName": "SuperTravel",
+                    "rawPrice": 447,
+                    "price": "$447"
+                },
+                {
+                    "partnerId": "h_ei",
+                    "partnerName": "Edreams",
+                    "rawPrice": 451,
+                    "price": "$451"
+                },
+                {
+                    "partnerId": "h_bc",
+                    "partnerName": "Booking.com",
+                    "rawPrice": 451,
+                    "price": "$451"
+                },
+                {
+                    "partnerId": "h_xp",
+                    "partnerName": "Expedia",
+                    "rawPrice": 452,
+                    "price": "$452"
+                },
+                {
+                    "partnerId": "h_hc",
+                    "partnerName": "Hotels.com",
+                    "rawPrice": 452,
+                    "price": "$452"
+                },
+                {
+                    "partnerId": "h_tc",
+                    "partnerName": "Travelocity",
+                    "rawPrice": 452,
+                    "price": "$452"
+                }
+            ],
+            "priceDescription": "$322 for 1 night",
+            "taxPolicy": "Taxes and fees not included",
+            "rateFeatures": [],
+            "cheapestOfferPartnerName": "Vio.com"
+        },
+        {
+            "hotelId": "46943104",
+            "heroImage": "https://content.skyscnr.com/available/758982439/758982439_WxH.jpg",
+            "name": "Grand Hôtel Dechampaigne",
+            "stars": 3,
+            "brandIds": [],
+            "distance": "0.46 miles from downtown",
+            "relevantPoiDistance": "0.37 miles from Louvre Museum",
+            "coordinates": [
+                2.3452823,
+                48.8587668
+            ],
+            "price": "$559",
+            "cheapestOfferPartnerId": "h_11",
+            "cheapestOfferRateId": "ewogICJhZHVsdHMiOiBudWxsLAogICJhdXRob3JpemF0aW9uX2luZm8iOiBbCiAgICB7CiAgICAgICJDb2RlIjogIlB1YmxpY1BhcmFtZXRlciIsCiAgICAgICJWYWx1ZSI6ICJINHNJQUFBQUFBQUFBR1dSVVcrRElCU0Yvd3V2cXdzZ1d0WTNhOWZNeEdRbTFxZTVMRlJwUjByRklDNHhUZi83cnRwdVdVWjQ0SDRIT0pmREJVVjFyeDFhSVlJV0tEWk5wem9ubTJySXJESld1UUVVQ2txeUxsNk1rM3FydEpNVzRLVkVrYXBMdENJMHhNdEZpZUpQV1oyU1ppT2NCRm9paWluek1QY0lMdEZkZnUzZGY1M011dWtiWjRmWTFMTmM1RE8ycHV1S1R0b0picU0wZjU1NTN6bHpsamF6cHBYV0RTQy9RVXYzTWdhWG83RWp4b3RmbkV3Tk0zWjlCNWlhU3VqWlREWWZONzlNQzNjdzlqeGhaYm9KNXZORGZjSlpNRjZYbTk1VzhzK1dZdHBTSXFHMUVrMGwrN0crenNGbHBrczJFTm5rNG9tMkJaeENnNUcxNmt2b25UckxNZVdmdkhhVXJqQ0crWWd4ZnNBY1ZuQkNxSHI4cFRGdHFGUzcxcVk2M1ZKTDZoUytEZVF3QkUyYjQrUkg0RGpGeXlYeHhyc3h3UndIakREdWNjYjN1QW9QWkM4cDh3bDlvanp3eHhINGRNKzRSTmR2d0JRSzV4Y0NBQUE9IgogICAgfSwKICAgIHsKICAgICAgIkNvZGUiOiAiTWluUHJpY2VfUGFydG5lcl9kYXRhIiwKICAgICAgIlZhbHVlIjogIkg0c0lBQUFBQUFBQUFGV1F6VzZETUJDRTMyWFBDZG8xL2t1dUxZZmVxbFM1Y1hHSW9aYkFJSENxVkJIdjNqVlNwSFJ2KzgzTWV1UUhEQ0YrenFIeEg3RWQ0UWlQT3BNcGsza2NoeHFPVE54UHR4SGVwTEpVWUxtcklTVjMzNEFweVBDZTdlSEtoTVJCbzliV2lreGQ4bFB2NHFaWWxLUVFLYWZINVByL1IxRUowdHZoYVptWUlpTWVKdTU2NjFNbWE1YkQ0SmZraG13aGcxTHIwcUNWVm1adGRvM2ZucXFCT0N2UUdOb0xGQklKTFNwSjB1N1plOEZHdDNUeFFwYmNWbGhWNWxHbHVFakxoVmJZUVJ2dUorNWV4UlRTTC84Q2pIUG9RblQ5MjIyZWZXeVlRWFUrc2ZNcFZQZm0yOFhPdzlFVVZ0aUQya0Z6VzlJNHZDVE9YKy93eEs5K2tvYlc5UTh0WC9yQmpnRUFBQT09IgogICAgfSwKICAgIHsKICAgICAgIkNvZGUiOiAiRml4Q2hhbmdlUmF0ZSIsCiAgICAgICJWYWx1ZSI6ICJINHNJQUFBQUFBQUFBS3RXOGkvS1RNL01TOHh4TGkwcVNzMUxybFN5VW5JTkRWTFNVZkxOekFzb3lreE9EY3JQendVS0docFptaG1ZbVZsWUdBSGwwRFc1VmlSbkpPYWxwd0xWbWV0WkdGbFltZ0lWT1pjV2wrVG5waFlobVJ3YTdJSkZBa1czb1ltNW9WSXRBRjdKbnRTWUFBQUEiCiAgICB9CiAgXSwKICAibWluaV9wcmljZV9yb29tX2lkIjogIjEyOTYwNjY4ODIiLAogICJyYXRlX2lkIjogIjEyOTYwNjY4ODIiCn0=",
+            "rawPrice": 559,
+            "rating": {
+                "description": "Very Good",
+                "count": 1211,
+                "value": "8.0",
+                "color": "colorMonteverde"
+            },
+            "reviewSummary": {
+                "description": "Very Good",
+                "count": 1211,
+                "formatCount": "1,211",
+                "value": "4.0",
+                "formatValue": "4.0",
+                "color": "colorMonteverde",
+                "taImage": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-64600-4.png",
+                "confidenceBadge": {
+                    "type": "location",
+                    "score": 5,
+                    "icon": "thumbs-up",
+                    "color": {
+                        "light": "colorMonteverde",
+                        "dark": "colorMonteverde"
+                    },
+                    "message": "Hotel location is rated 5/5"
+                }
+            },
+            "cheapestOffer": "meta",
+            "offerTypes": "dbookAndMeta",
+            "guestType": null,
+            "exclusiveDealLabel": null,
+            "pricesFrom": "11 prices from",
+            "images": [
+                "https://content.skyscnr.com/available/758982439/758982439_WxH.jpg",
+                "https://content.skyscnr.com/available/949247972/949247972_WxH.jpg",
+                "https://content.skyscnr.com/available/394005356/394005356_WxH.jpg"
+            ],
+            "otherRates": [
+                {
+                    "partnerId": "h_tt",
+                    "partnerName": "Algotels",
+                    "rawPrice": 563,
+                    "price": "$563"
+                },
+                {
+                    "partnerId": "h_zh",
+                    "partnerName": "ZenHotels",
+                    "rawPrice": 564,
+                    "price": "$564"
+                },
+                {
+                    "partnerId": "d_sg",
+                    "partnerName": "Easytrip",
+                    "rawPrice": 583,
+                    "price": "$583"
+                },
+                {
+                    "partnerId": "d_ct",
+                    "partnerName": "Trip.com",
+                    "rawPrice": 583,
+                    "price": "$583"
+                },
+                {
+                    "partnerId": "h_fd",
+                    "partnerName": "Vio.com",
+                    "rawPrice": 587,
+                    "price": "$587"
+                },
+                {
+                    "partnerId": "h_ei",
+                    "partnerName": "Edreams",
+                    "rawPrice": 626,
+                    "price": "$626"
+                },
+                {
+                    "partnerId": "h_bc",
+                    "partnerName": "Booking.com",
+                    "rawPrice": 626,
+                    "price": "$626"
+                },
+                {
+                    "partnerId": "h_xp",
+                    "partnerName": "Expedia",
+                    "rawPrice": 627,
+                    "price": "$627"
+                },
+                {
+                    "partnerId": "h_hc",
+                    "partnerName": "Hotels.com",
+                    "rawPrice": 627,
+                    "price": "$627"
+                },
+                {
+                    "partnerId": "h_tc",
+                    "partnerName": "Travelocity",
+                    "rawPrice": 627,
+                    "price": "$627"
+                }
+            ],
+            "priceDescription": "$559 for 1 night",
+            "taxPolicy": "Taxes and fees not included",
+            "rateFeatures": [],
+            "cheapestOfferPartnerName": "SuperTravel"
+        },
+        {
+            "hotelId": "203914268",
+            "heroImage": "https://content.skyscnr.com/available/951691953/951691953_WxH.jpg",
+            "name": "Maison Albar Hotels Le Diamond",
+            "stars": 5,
+            "brandIds": [],
+            "distance": "1.15 miles from downtown",
+            "relevantPoiDistance": "1.76 miles from Eiffel Tower",
+            "coordinates": [
+                2.32339,
+                48.87526
+            ],
+            "price": "$780",
+            "cheapestOfferPartnerId": "h_fd",
+            "cheapestOfferRateId": null,
+            "rawPrice": 780,
+            "rating": {
+                "description": "Excellent",
+                "count": 1676,
+                "value": "9.0",
+                "color": "colorMonteverde"
+            },
+            "reviewSummary": {
+                "description": "Excellent",
+                "count": 1676,
+                "formatCount": "1,676",
+                "value": "4.5",
+                "formatValue": "4.5",
+                "color": "colorMonteverde",
+                "taImage": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-64600-4.png",
+                "confidenceBadge": {
+                    "type": "location",
+                    "score": 4.5,
+                    "icon": "thumbs-up",
+                    "color": {
+                        "light": "colorMonteverde",
+                        "dark": "colorMonteverde"
+                    },
+                    "message": "Hotel location is rated 4.5/5"
+                }
+            },
+            "cheapestOffer": "meta",
+            "offerTypes": "meta",
+            "guestType": null,
+            "exclusiveDealLabel": null,
+            "pricesFrom": "11 prices from",
+            "images": [
+                "https://content.skyscnr.com/available/951691953/951691953_WxH.jpg",
+                "https://content.skyscnr.com/available/353039386/353039386_WxH.jpg",
+                "https://content.skyscnr.com/available/1301676675/1301676675_WxH.jpg"
+            ],
+            "otherRates": [
+                {
+                    "partnerId": "h_11",
+                    "partnerName": "SuperTravel",
+                    "rawPrice": 879,
+                    "price": "$879"
+                },
+                {
+                    "partnerId": "h_ad",
+                    "partnerName": "Agoda",
+                    "rawPrice": 952,
+                    "price": "$952"
+                },
+                {
+                    "partnerId": "h_tt",
+                    "partnerName": "Algotels",
+                    "rawPrice": 1012,
+                    "price": "$1,012"
+                },
+                {
+                    "partnerId": "h_fb",
+                    "partnerName": "Fastbooking",
+                    "rawPrice": 1013,
+                    "price": "$1,013"
+                },
+                {
+                    "partnerId": "h_xp",
+                    "partnerName": "Expedia",
+                    "rawPrice": 1074,
+                    "price": "$1,074"
+                },
+                {
+                    "partnerId": "h_hc",
+                    "partnerName": "Hotels.com",
+                    "rawPrice": 1074,
+                    "price": "$1,074"
+                },
+                {
+                    "partnerId": "h_tc",
+                    "partnerName": "Travelocity",
+                    "rawPrice": 1074,
+                    "price": "$1,074"
+                },
+                {
+                    "partnerId": "h_ei",
+                    "partnerName": "Edreams",
+                    "rawPrice": 1074,
+                    "price": "$1,074"
+                },
+                {
+                    "partnerId": "h_bc",
+                    "partnerName": "Booking.com",
+                    "rawPrice": 1074,
+                    "price": "$1,074"
+                },
+                {
+                    "partnerId": "h_zh",
+                    "partnerName": "ZenHotels",
+                    "rawPrice": 1075,
+                    "price": "$1,075"
+                }
+            ],
+            "priceDescription": "$780 for 1 night",
+            "taxPolicy": "Taxes and fees not included",
+            "rateFeatures": [],
+            "cheapestOfferPartnerName": "Vio.com"
+        },
+        {
+            "hotelId": "46941272",
+            "heroImage": "https://content.skyscnr.com/available/685271711/685271711_WxH.jpg",
+            "name": "Castille Paris – Starhotels Collezione",
+            "stars": 5,
+            "brandIds": [
+                "90718598"
+            ],
+            "distance": "0.66 miles from downtown",
+            "relevantPoiDistance": "1.62 miles from Eiffel Tower",
+            "coordinates": [
+                2.32687,
+                48.86828
+            ],
+            "price": "$1,185",
+            "cheapestOfferPartnerId": "h_11",
+            "cheapestOfferRateId": null,
+            "rawPrice": 1185,
+            "rating": {
+                "description": "Excellent",
+                "count": 1286,
+                "value": "9.0",
+                "color": "colorMonteverde"
+            },
+            "reviewSummary": {
+                "description": "Excellent",
+                "count": 1286,
+                "formatCount": "1,286",
+                "value": "4.5",
+                "formatValue": "4.5",
+                "color": "colorMonteverde",
+                "taImage": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-64600-4.png",
+                "confidenceBadge": {
+                    "type": "location",
+                    "score": 5,
+                    "icon": "thumbs-up",
+                    "color": {
+                        "light": "colorMonteverde",
+                        "dark": "colorMonteverde"
+                    },
+                    "message": "Hotel location is rated 5/5"
+                }
+            },
+            "cheapestOffer": "meta",
+            "offerTypes": "meta",
+            "guestType": null,
+            "exclusiveDealLabel": null,
+            "pricesFrom": "1 price",
+            "images": [
+                "https://content.skyscnr.com/available/685271711/685271711_WxH.jpg",
+                "https://content.skyscnr.com/available/685271696/685271696_WxH.jpg",
+                "https://content.skyscnr.com/available/685271867/685271867_WxH.jpg"
+            ],
+            "otherRates": [],
+            "priceDescription": "$1,185 for 1 night",
+            "taxPolicy": "Taxes and fees not included",
+            "rateFeatures": [],
+            "cheapestOfferPartnerName": "SuperTravel"
+        },
+        {
+            "hotelId": "104926371",
+            "heroImage": "https://content.skyscnr.com/available/1353523248/1353523248_WxH.jpg",
+            "name": "Hotel Libertel Gare de l'Est Francais",
+            "stars": 3,
+            "brandIds": [],
+            "distance": "1.46 miles from downtown",
+            "relevantPoiDistance": "1.39 miles from Louvre Museum",
+            "coordinates": [
+                2.3569809,
+                48.8762474
+            ],
+            "price": "$240",
+            "cheapestOfferPartnerId": "h_11",
+            "cheapestOfferRateId": "ewogICJhZHVsdHMiOiAyLAogICJhdXRob3JpemF0aW9uX2luZm8iOiBbCiAgICB7CiAgICAgICJDb2RlIjogIlB1YmxpY1BhcmFtZXRlciIsCiAgICAgICJWYWx1ZSI6ICJINHNJQUFBQUFBQUFBR1dSUVcvaklCQ0Yvd3ZYeHRWQVNNTG1saWF0YWlsU0xhVTVyYXVLMkxSRkpaNEk4RXBSbGYrK0E3UmJyV3B4OEh3UGVNT2JEN2JxUnhmWmtuRTJZV3NjZ2czUkROMjU4UmE5aldkU0JDbjF6ZjRlbzNGMzFrWGpDWDYwYkdYN2xpMjVtTU5pMHJMMW0rbmU2Mkdqb3lIYU1nRkNWcUFxRGkzN2toL0crRlBuUmNkeGlQNjh4cjdJKzEzQkhrUFlCK016dkZ0dGQ3ZUZqeUhpMGZqRzQ4bjRlQ2I1TjdYMFZhN0o1UlY5d2pENXhuVnVXTXJMRThFdGR0b1ZNek04Zi9vMVRzY1g5TWVNTFlZTWQrV2hVNjdrTEYyM3c5RjM1cjh0Kzd5bFpkbzVxNGZPakttK2xPQWFEUFdHSXNzdWxUNmRDRytwd1pYMzlvOTJqL1pvVXNyLzhuZ0VXT1oxRFFCWG9PaVBUalRHQnh4b0xKMHA4WHU2b3Q1a1Z4QWxSSjFtU1VRa1oyMzdOTlkwSHFyczZjWmg5LzRaYzkxdmFjNGt6K2VrT1h6TkRYTHlFN0JZOENvMUF4d1V6Q1NYcWxKU0hhQ2J2L0NERVhMS3hTK2hadFAwemFiaUlKVmhsNzlKVWhoZ1NBSUFBQT09IgogICAgfSwKICAgIHsKICAgICAgIkNvZGUiOiAiTWluUHJpY2VfUGFydG5lcl9kYXRhIiwKICAgICAgIlZhbHVlIjogIkg0c0lBQUFBQUFBQUFHV1FQVytETUJDRy84dk5DYnF6RGJhenRobTZWYTI2c1RnRXFDV3dFVGhWcW9qLzNqTnRsdlMyZTk0UG4zeUQwWWZYMlRmdFMrZ2lIT0JXWnpKbE1zYzQxbkJnNHI3NmpmQW1oTFdGc0xzYVVuTFhEQ3dXcXVROTIvMlpDY21LakxZVlplaFNPdzB1YklJcERTc1dSVTdINUlhSFVsa3Eyb3FuWldLS0JlYjVhOWthYWtCQk5UQnk1OHVRY25UTkNUKzJTM0pqVHBGR1ZWVlNvMUZHWm0xMnpUMU1YQ2RRYTlvTEZBb0pEZktUeXV6WmU4S202dWpVQ2lWSldHRkttYWVVNHFRTTM3akNEanAvZmVOTGppSDU5TTBmQTNIMnZROXVlTHJNY3hzYVp2RHgvc3pPdTNDOE5wOHU5QzBjZEVGSzB3NmF5NUxpK0Mvd2l4L3Q2L29EUC8rZWQ2QUJBQUE9IgogICAgfSwKICAgIHsKICAgICAgIkNvZGUiOiAiRml4Q2hhbmdlUmF0ZSIsCiAgICAgICJWYWx1ZSI6ICJINHNJQUFBQUFBQUFBS3RXOGkvS1RNL01TOHh4TGkwcVNzMUxybFN5VWdvTmRsSFNVZkxOekFzb3lreE9EY3JQendVS0docWJHVnFZVzVvWkFxWFE5YmhXSkdjazVxV25BcFdaNnhtYW1JUFVPSmNXbCtUbnBoWmhtSXN1Z2FtNUZnQmZGMU9UbGdBQUFBPT0iCiAgICB9CiAgXSwKICAibWluaV9wcmljZV9yb29tX2lkIjogIjEzNjE4Nzk2MSIsCiAgInJhdGVfaWQiOiAiMTM2MTg3OTYxIgp9",
+            "rawPrice": 240,
+            "rating": {
+                "description": "Very Good",
+                "count": 1062,
+                "value": "8.0",
+                "color": "colorMonteverde"
+            },
+            "reviewSummary": {
+                "description": "Very Good",
+                "count": 1062,
+                "formatCount": "1,062",
+                "value": "4.0",
+                "formatValue": "4.0",
+                "color": "colorMonteverde",
+                "taImage": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-64600-4.png",
+                "confidenceBadge": {
+                    "type": "location",
+                    "score": 4.5,
+                    "icon": "thumbs-up",
+                    "color": {
+                        "light": "colorMonteverde",
+                        "dark": "colorMonteverde"
+                    },
+                    "message": "Hotel location is rated 4.5/5"
+                }
+            },
+            "cheapestOffer": "meta",
+            "offerTypes": "dbookAndMeta",
+            "guestType": null,
+            "exclusiveDealLabel": null,
+            "pricesFrom": "12 prices from",
+            "images": [
+                "https://content.skyscnr.com/available/1353523248/1353523248_WxH.jpg",
+                "https://content.skyscnr.com/available/957722030/957722030_WxH.jpg",
+                "https://content.skyscnr.com/available/957722096/957722096_WxH.jpg"
+            ],
+            "otherRates": [
+                {
+                    "partnerId": "h_fd",
+                    "partnerName": "Vio.com",
+                    "rawPrice": 251,
+                    "price": "$251"
+                },
+                {
+                    "partnerId": "h_tt",
+                    "partnerName": "Algotels",
+                    "rawPrice": 261,
+                    "price": "$261"
+                },
+                {
+                    "partnerId": "d_sg",
+                    "partnerName": "Easytrip",
+                    "rawPrice": 263,
+                    "price": "$263"
+                },
+                {
+                    "partnerId": "d_ct",
+                    "partnerName": "Trip.com",
+                    "rawPrice": 292,
+                    "price": "$292"
+                },
+                {
+                    "partnerId": "h_ad",
+                    "partnerName": "Agoda",
+                    "rawPrice": 294,
+                    "price": "$294"
+                },
+                {
+                    "partnerId": "h_zh",
+                    "partnerName": "ZenHotels",
+                    "rawPrice": 302,
+                    "price": "$302"
+                },
+                {
+                    "partnerId": "h_ei",
+                    "partnerName": "Edreams",
+                    "rawPrice": 307,
+                    "price": "$307"
+                },
+                {
+                    "partnerId": "h_bc",
+                    "partnerName": "Booking.com",
+                    "rawPrice": 307,
+                    "price": "$307"
+                },
+                {
+                    "partnerId": "h_xp",
+                    "partnerName": "Expedia",
+                    "rawPrice": 895,
+                    "price": "$895"
+                },
+                {
+                    "partnerId": "h_hc",
+                    "partnerName": "Hotels.com",
+                    "rawPrice": 895,
+                    "price": "$895"
+                },
+                {
+                    "partnerId": "h_tc",
+                    "partnerName": "Travelocity",
+                    "rawPrice": 895,
+                    "price": "$895"
+                }
+            ],
+            "priceDescription": "$240 for 1 night",
+            "taxPolicy": "Taxes and fees not included",
+            "rateFeatures": [],
+            "cheapestOfferPartnerName": "SuperTravel"
+        },
+        {
+            "hotelId": "46958397",
+            "heroImage": "https://content.skyscnr.com/available/758952348/758952348_WxH.jpg",
+            "name": "Best Western Plus La Demeure",
+            "stars": 4,
+            "brandIds": [],
+            "distance": "1.83 miles from downtown",
+            "relevantPoiDistance": "1.78 miles from Louvre Museum",
+            "coordinates": [
+                2.3558,
+                48.837798
+            ],
+            "price": "$424",
+            "cheapestOfferPartnerId": "h_fb",
+            "cheapestOfferRateId": "ewogICJhZHVsdHMiOiAyLAogICJhdXRob3JpemF0aW9uX2luZm8iOiBbCiAgICB7CiAgICAgICJDb2RlIjogIlB1YmxpY1BhcmFtZXRlciIsCiAgICAgICJWYWx1ZSI6ICJINHNJQUFBQUFBQUFBR1dSVVV2ek1CU0cvMHR1WGVVa3k3cTR1N2twRmdZVzVxNnNTTlpHRFdZOUkwbUZJZnZ2bmpUNnlZY2xGejNQbStROWVjOG5XM2FEaTJ6Qk9KdXdGZmJCaG1qNjlsUjdpOTdHRXltQ2xPcDZkNGZSdUZ2cm92RUVQeHUydEYzREZseVVNSjgwYlBWbTJ2ZXFYK3RvaURaTWdKQUZxSUpEdzM3ayt5SCsxWG5XY2VpalA2Mnd5L0p1bTdISEVIYkIrQkhlTGpmYm04eUhFUEZnZk8zeGFIdzhrZnhJTGYyVUszSjVSWjh3VEg1eE5UWXM1Zm1KNEFaYjdiS1o2WisvL1dxbjR3djZ3NGd0aGhGdTgwT25YTWxadW02TGcyL05mMXQyNDVhR2FlZXM3bHN6cFBxY2c2c3hWR3VLYkhRcDlQRkllRU1OTHIyM0g5bzkySU5KS2YvTDR3SEtCUUN0U3dDNEFFVi9kS0kyUG1CUFkybE5qdC9URmRWNmRBV1JROVJwbGtSRWN0YTJTMk5ONDZIS0hxOGR0dS9mTVZmZGh1Wk1jbG1TNXZCMWJKQ1RuNEQ1bkJlcEdlQ2dZQ2E1VklXU2FnOXQrY0wzUnNncEYxZEN6YWJwbTAzRlhpckR6bCt1NTdHVVNBSUFBQT09IgogICAgfSwKICAgIHsKICAgICAgIkNvZGUiOiAiTWluUHJpY2VfUGFydG5lcl9kYXRhIiwKICAgICAgIlZhbHVlIjogIkg0c0lBQUFBQUFBQUFHV1FQVytETUJDRy84dk5CUG1Nd1E1cm02RmIxYW9iaTNHQVdnSWJnYW1vSXY1N3oyNnpwTGZkODM3NDVCdE0xcjB1MW5RdnJ2ZFF3NjJKWkk1azhYNXFvQ2FpdjRaRWFCUDh6UFBxbkRVUWd0NEpsQ2p6c3FBOTJ1MlZTSVdsa0VyeEJIWG81bEc3SlBDWThrR1BEMlhJV1pMQ3ZNNUVXYzdpL0tWVHNnSEdzUUZDK3JxTklYWWRNV0duYmcxNmlpbVVURlJWSVprU0tyVXQydHpEU0hXY1NZa25la2t3WklxVkFvVTZrYmRscHVxeDdiZ29rTTVSWlJHbkxIZ3JGTjE0UUFhOTNkL29rb3NMTm56VGg0QmY3R0NkSHArMlplbWNJUVlmNzgva3ZBdVgzWHhxTjNSUXl4eUZ4QXpNdGdZLy9Rdjg0a2Y3Y2Z3QWdFamxucGdCQUFBPSIKICAgIH0sCiAgICB7CiAgICAgICJDb2RlIjogIkZpeENoYW5nZVJhdGUiLAogICAgICAiVmFsdWUiOiAiSDRzSUFBQUFBQUFBQUt0VzhpL0tUTS9NUzh4eExpMHFTczFMcmxTeVVnb05kbEhTVWZMTnpBc295a3hPRGNyUHp3VUttaG1hbXBoYldCZ1pBNlhROWJoV0pHY2s1cVduQXBXWjZ4bWFtQnNDMVRpWEZwZms1NllXWVppTExvR3B1UllBS0VFcGw1WUFBQUE9IgogICAgfQogIF0sCiAgIm1pbmlfcHJpY2Vfcm9vbV9pZCI6ICI2MTU0Nzg4MjMiLAogICJyYXRlX2lkIjogIjYxNTQ3ODgyMyIKfQ==",
+            "rawPrice": 424,
+            "rating": {
+                "description": "Excellent",
+                "count": 1006,
+                "value": "9.0",
+                "color": "colorMonteverde"
+            },
+            "reviewSummary": {
+                "description": "Excellent",
+                "count": 1006,
+                "formatCount": "1,006",
+                "value": "4.5",
+                "formatValue": "4.5",
+                "color": "colorMonteverde",
+                "taImage": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-64600-4.png",
+                "confidenceBadge": {
+                    "type": "location",
+                    "score": 4.5,
+                    "icon": "thumbs-up",
+                    "color": {
+                        "light": "colorMonteverde",
+                        "dark": "colorMonteverde"
+                    },
+                    "message": "Hotel location is rated 4.5/5"
+                }
+            },
+            "cheapestOffer": "meta",
+            "offerTypes": "dbookAndMeta",
+            "guestType": null,
+            "exclusiveDealLabel": null,
+            "pricesFrom": "12 prices from",
+            "images": [
+                "https://content.skyscnr.com/available/758952348/758952348_WxH.jpg",
+                "https://content.skyscnr.com/available/1032763975/1032763975_WxH.jpg",
+                "https://content.skyscnr.com/available/385903942/385903942_WxH.jpg"
+            ],
+            "otherRates": [
+                {
+                    "partnerId": "h_fd",
+                    "partnerName": "Vio.com",
+                    "rawPrice": 455,
+                    "price": "$455"
+                },
+                {
+                    "partnerId": "h_bw",
+                    "partnerName": "Best Western",
+                    "rawPrice": 491,
+                    "price": "$491"
+                },
+                {
+                    "partnerId": "h_zh",
+                    "partnerName": "ZenHotels",
+                    "rawPrice": 545,
+                    "price": "$545"
+                },
+                {
+                    "partnerId": "h_ei",
+                    "partnerName": "Edreams",
+                    "rawPrice": 546,
+                    "price": "$546"
+                },
+                {
+                    "partnerId": "h_bc",
+                    "partnerName": "Booking.com",
+                    "rawPrice": 546,
+                    "price": "$546"
+                },
+                {
+                    "partnerId": "h_xp",
+                    "partnerName": "Expedia",
+                    "rawPrice": 546,
+                    "price": "$546"
+                },
+                {
+                    "partnerId": "h_hc",
+                    "partnerName": "Hotels.com",
+                    "rawPrice": 546,
+                    "price": "$546"
+                },
+                {
+                    "partnerId": "h_tc",
+                    "partnerName": "Travelocity",
+                    "rawPrice": 546,
+                    "price": "$546"
+                },
+                {
+                    "partnerId": "d_ct",
+                    "partnerName": "Trip.com",
+                    "rawPrice": 546,
+                    "price": "$546"
+                },
+                {
+                    "partnerId": "h_ad",
+                    "partnerName": "Agoda",
+                    "rawPrice": 547,
+                    "price": "$547"
+                },
+                {
+                    "partnerId": "d_sg",
+                    "partnerName": "Easytrip",
+                    "rawPrice": 547,
+                    "price": "$547"
+                }
+            ],
+            "priceDescription": "$424 for 1 night",
+            "taxPolicy": "Taxes and fees not included",
+            "rateFeatures": [
+                {
+                    "key": "breakfast_included",
+                    "text": "Breakfast included",
+                    "color": {
+                        "light": "colorMonteverde",
+                        "dark": "colorMonteverde"
+                    }
+                }
+            ],
+            "cheapestOfferPartnerName": "Fastbooking"
+        },
+        {
+            "hotelId": "118638141",
+            "heroImage": "https://content.skyscnr.com/available/1315314132/1315314132_WxH.jpg",
+            "name": "Hotel Darcet",
+            "stars": 2,
+            "brandIds": [],
+            "distance": "1.64 miles from downtown",
+            "relevantPoiDistance": "1.35 miles from Avenue des Champs-Élysées",
+            "coordinates": [
+                2.3252972,
+                48.8834012
+            ],
+            "price": "$436",
+            "cheapestOfferPartnerId": "h_11",
+            "cheapestOfferRateId": "ewogICJhZHVsdHMiOiAxLAogICJhdXRob3JpemF0aW9uX2luZm8iOiBbCiAgICB7CiAgICAgICJDb2RlIjogIlB1YmxpY1BhcmFtZXRlciIsCiAgICAgICJWYWx1ZSI6ICJINHNJQUFBQUFBQUFBR1dSVVUvQ01CU0YvMHRmWmVhMmxGRjVROUM0aE1RbHlKTXpwbXdWRzhvdWFUc1RZdmp2M202b01TNTdXTC9UOXB5ZCs4bm1UZWNpbXpIT1JteUJiYkFobXJZK2xkNml0L0ZFaWlDbHVOMDhZRFR1M3Jwb1BNSFBpczF0VTdFWkZ6bE1SeFZidkp0Nlg3UkxIUTNSaWdrUU1nT1ZjYWpZdC96WXhmODZIM1RzMnVoUEMyd0dlYk1lc01jUU5zSDRIdDdQVit1N2dYY2g0c0g0MHVQUitIZ2krWmtpZlM4WDVMSkRuekNNZm5IUkI1YnkvRUp3aGJWMmc1bHBYeTkrcGRQeERmMmh4eFpERDlmRGo0NjVrcE4wM1JvN1g1cy9XemI5bG9wcDU2eHVhOU9sOVhrb3JzUlFMS215M2lYVHh5UGhGUVdjZTI4L3RIdXlCNU5hL3VuakNmSVpBTDNYQUhBRmlyN29SR2w4d0piR1VwdWhmazlYRk12ZUZTNGw2alRMRkRVNWE5dWtzYWJ4ME1vZWJ4M1crMHZOUmJPaU9aT2M1NlE1M1BVQk9ma0ptRTU1bHNJQUJ3VVR5YVhLbEZSYnFQTTN2alZDanJtNEVXb3lUczlrTExaU0dYYitBbkkvN1ExSUFnQUEiCiAgICB9LAogICAgewogICAgICAiQ29kZSI6ICJNaW5QcmljZV9QYXJ0bmVyX2RhdGEiLAogICAgICAiVmFsdWUiOiAiSDRzSUFBQUFBQUFBQUdXUXdVNkVNQkNHMzJYT0xPbTBoWmE5Nmg2OEdZMDNMcVZic0FrVUFzVmdOcnk3SFhRUGFtL3p6Zi85bWZRR2d3L1BzN2Z1S2JRam5PRldFNW1Jek9NNDFIQk94SHgwQjBtVDBBTHpxc3BxaU5Gc0JKVElGYzBVOTlkRUNxbVVLRVNoQ1pyb3B0NkVZNEZramRIMHY4dDBoYUk4Q3FkbFNwVGxqTjZQZlpnMU1NUWFFakxYdFkvVXRaUGhCN2RFTTVDRmlzbXlGSXBwcVFYdFptUHZNcVk2enBUQ0UyZGNNbVNhRlJLbFBxVnN3MnpaWXVPNEZNZ3JyZ3RCcnhDOGtUcmR1RU1HcmQ5ZTBpV1hFSDM4VEI4QzQrdzdIMHovc002ekN6WXhlSHQ5VE1uNzRyTFpkeE02QjJlVm8xU1lnVjJYT0E3L2hHLzhONzd2WHg0V2R3Q1lBUUFBIgogICAgfSwKICAgIHsKICAgICAgIkNvZGUiOiAiRml4Q2hhbmdlUmF0ZSIsCiAgICAgICJWYWx1ZSI6ICJINHNJQUFBQUFBQUFBS3RXOGkvS1RNL01TOHh4TGkwcVNzMUxybFN5VWdvTmRsSFNVZkxOekFzb3lreE9EY3JQendVS21wcVlteHViR3B0YUFLWFE5YmhXSkdjazVxV25BcFdaNnhtYW1Cc0MxVGlYRnBmazU2WVdZWmlMTG9HcHVSWUE0czZzcUpZQUFBQT0iCiAgICB9CiAgXSwKICAibWluaV9wcmljZV9yb29tX2lkIjogIjU0NzczNTM1OCIsCiAgInJhdGVfaWQiOiAiNTQ3NzM1MzU4Igp9",
+            "rawPrice": 436,
+            "rating": {
+                "description": "Excellent",
+                "count": 1117,
+                "value": "9.0",
+                "color": "colorMonteverde"
+            },
+            "reviewSummary": {
+                "description": "Excellent",
+                "count": 1117,
+                "formatCount": "1,117",
+                "value": "4.5",
+                "formatValue": "4.5",
+                "color": "colorMonteverde",
+                "taImage": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-64600-4.png",
+                "confidenceBadge": {
+                    "type": "location",
+                    "score": 4.5,
+                    "icon": "thumbs-up",
+                    "color": {
+                        "light": "colorMonteverde",
+                        "dark": "colorMonteverde"
+                    },
+                    "message": "Hotel location is rated 4.5/5"
+                }
+            },
+            "cheapestOffer": "meta",
+            "offerTypes": "dbookAndMeta",
+            "guestType": null,
+            "exclusiveDealLabel": null,
+            "pricesFrom": "7 prices from",
+            "images": [
+                "https://content.skyscnr.com/available/1315314132/1315314132_WxH.jpg",
+                "https://content.skyscnr.com/available/1315313998/1315313998_WxH.jpg",
+                "https://content.skyscnr.com/available/961714246/961714246_WxH.jpg"
+            ],
+            "otherRates": [
+                {
+                    "partnerId": "h_zh",
+                    "partnerName": "ZenHotels",
+                    "rawPrice": 438,
+                    "price": "$438"
+                },
+                {
+                    "partnerId": "h_tt",
+                    "partnerName": "Algotels",
+                    "rawPrice": 454,
+                    "price": "$454"
+                },
+                {
+                    "partnerId": "d_ct",
+                    "partnerName": "Trip.com",
+                    "rawPrice": 487,
+                    "price": "$487"
+                },
+                {
+                    "partnerId": "h_xp",
+                    "partnerName": "Expedia",
+                    "rawPrice": 487,
+                    "price": "$487"
+                },
+                {
+                    "partnerId": "h_hc",
+                    "partnerName": "Hotels.com",
+                    "rawPrice": 487,
+                    "price": "$487"
+                },
+                {
+                    "partnerId": "h_tc",
+                    "partnerName": "Travelocity",
+                    "rawPrice": 487,
+                    "price": "$487"
+                }
+            ],
+            "priceDescription": "$436 for 1 night",
+            "taxPolicy": "Taxes and fees not included",
+            "rateFeatures": [],
+            "cheapestOfferPartnerName": "SuperTravel"
+        },
+        {
+            "hotelId": "104949659",
+            "heroImage": "https://content.skyscnr.com/available/1247972409/1247972409_WxH.jpg",
+            "name": "Les Jardins du Marais",
+            "stars": 4,
+            "brandIds": [],
+            "distance": "1.48 miles from downtown",
+            "relevantPoiDistance": "1.38 miles from Louvre Museum",
+            "coordinates": [
+                2.3680134,
+                48.8605191
+            ],
+            "price": "$915",
+            "cheapestOfferPartnerId": "h_11",
+            "cheapestOfferRateId": "ewogICJhZHVsdHMiOiAxLAogICJhdXRob3JpemF0aW9uX2luZm8iOiBbCiAgICB7CiAgICAgICJDb2RlIjogIlB1YmxpY1BhcmFtZXRlciIsCiAgICAgICJWYWx1ZSI6ICJINHNJQUFBQUFBQUFBR1dSWDJ1RE1CVEZ2MHRlVjhlTnRWYjYxajhyRXdvVGJKL21HS25HTGpUMVNoSUhVdnJkZDZQZHhoajRZSDRuM25NODk4cVdWYWNkV3pET0pteU5qVlhXeWFic002UFFLTmVURXBLU3JnN1A2S1RlS3Uya0lYZ3QyRkpWQlZ2d01JYjVwR0RyRDFtZTAyWWpuQ1Jhc0JEQ0tJQWs0RkN3Yi9tbGMvOTFQdXJZTmM3MGE2eEcrWkNQMktDMUJ5dk5BTGZMWGY0MDhzNDZ2RWlUR1d5bGNUM0pyeFRwKzdnbWx4TWFqMkh5aTlNaGNCVGQzZ2p1c0JSNk5KUE4rOTB2MDhMVmFDNERWbWdIbUk4L091VkpOUFBqY3V4TUtmOWNPUXhYQ2lhMFZxSXBaZWZQdDdHNERHMjZvY29HbDBDMExlRWRCVndhb3o2RjNxdUw5QzMvOUxHSGVBRkF6eU1BUEVCQ2IvUkZKbzNGaHRaU3lyRitReVBTemVBSzl4S0YzNldQNnAyRnF2eGEvWHJvcE5xVnh2Sjhyem10ZHJSbmt1T1lOSTJuSVNBbnZ4RG1jeDc0TU1BaGdWbkVveVNBZWdabEdJcDVYTVZSRElrNDFpSk00SGlNcC9VMG9SbTNMeXdpK3ZWSUFnQUEiCiAgICB9LAogICAgewogICAgICAiQ29kZSI6ICJNaW5QcmljZV9QYXJ0bmVyX2RhdGEiLAogICAgICAiVmFsdWUiOiAiSDRzSUFBQUFBQUFBQUdXUVBXL0NNQkNHLzh2TmdPNGNmOEhhTW5TclduWExjb1FFTENWT0ZKd3FGY3AvN3huSzBOYmJQZStIem5lRkxzVFhNVlQxUzJ4NjJNRzF6R1RJWk96N3JvU2RFUDQ4M1loTVRodTFJYjBxSVNXZUJXd0x1L0Y1enZad0ZFTGFiSzNUampCVFR2WFFjcndyeGlrcTBDUGxmSis0L1YxYmVLWDhyWHE0REVKeGcvbjkxTndxU2tDaUVnVHhjV3BUTGwxeUluVDFKWEdYVStSUVcxczQ5TnFZckkxY1BjSWtkUXFkbzdWQ3BaRmtGNk5KK3pVMkJpdWwyTm1qMVJZOUh4cFdIZzhIV3pTRnQ3YUVCVmJRaFBsTk50bkhGTktYbkFiNk1aeEM1UFpwR3NjNlZzTGc0LzFabkE5aFAxZG5qcWRhdmlobmM3U0NhcnFrdnZzWHVPTy85bVg1QmhENmQrdWlBUUFBIgogICAgfSwKICAgIHsKICAgICAgIkNvZGUiOiAiRml4Q2hhbmdlUmF0ZSIsCiAgICAgICJWYWx1ZSI6ICJINHNJQUFBQUFBQUFBS3RXOGkvS1RNL01TOHh4TGkwcVNzMUxybFN5VWdvTmRsSFNVZkxOekFzb3lreE9EY3JQendVS0dwcVlXcHFabTVnYkdnRGwwRFc1VmlSbkpPYWxwd0xWbWVzWkFoVUIxVGlYRnBmazU2WVdZUmlNTG9HcHVSWUFGeEpRbkpjQUFBQT0iCiAgICB9CiAgXSwKICAibWluaV9wcmljZV9yb29tX2lkIjogIjE0NTk2NzQ3MTAiLAogICJyYXRlX2lkIjogIjE0NTk2NzQ3MTAiCn0=",
+            "rawPrice": 915,
+            "rating": {
+                "description": "Very Good",
+                "count": 3162,
+                "value": "8.0",
+                "color": "colorMonteverde"
+            },
+            "reviewSummary": {
+                "description": "Very Good",
+                "count": 3162,
+                "formatCount": "3,162",
+                "value": "4.0",
+                "formatValue": "4.0",
+                "color": "colorMonteverde",
+                "taImage": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-64600-4.png"
+            },
+            "cheapestOffer": "meta",
+            "offerTypes": "dbookAndMeta",
+            "guestType": null,
+            "exclusiveDealLabel": null,
+            "pricesFrom": "12 prices from",
+            "images": [
+                "https://content.skyscnr.com/available/1247972409/1247972409_WxH.jpg",
+                "https://content.skyscnr.com/available/1142093090/1142093090_WxH.jpg",
+                "https://content.skyscnr.com/available/667669437/667669437_WxH.jpg"
+            ],
+            "otherRates": [
+                {
+                    "partnerId": "d_sg",
+                    "partnerName": "Easytrip",
+                    "rawPrice": 948,
+                    "price": "$948"
+                },
+                {
+                    "partnerId": "d_ct",
+                    "partnerName": "Trip.com",
+                    "rawPrice": 948,
+                    "price": "$948"
+                },
+                {
+                    "partnerId": "h_fd",
+                    "partnerName": "Vio.com",
+                    "rawPrice": 956,
+                    "price": "$956"
+                },
+                {
+                    "partnerId": "h_tt",
+                    "partnerName": "Algotels",
+                    "rawPrice": 972,
+                    "price": "$972"
+                },
+                {
+                    "partnerId": "h_pi",
+                    "partnerName": "Prestigia",
+                    "rawPrice": 1066,
+                    "price": "$1,066"
+                },
+                {
+                    "partnerId": "h_ei",
+                    "partnerName": "Edreams",
+                    "rawPrice": 1193,
+                    "price": "$1,193"
+                },
+                {
+                    "partnerId": "h_bc",
+                    "partnerName": "Booking.com",
+                    "rawPrice": 1193,
+                    "price": "$1,193"
+                },
+                {
+                    "partnerId": "h_zh",
+                    "partnerName": "ZenHotels",
+                    "rawPrice": 1194,
+                    "price": "$1,194"
+                },
+                {
+                    "partnerId": "h_xp",
+                    "partnerName": "Expedia",
+                    "rawPrice": 1194,
+                    "price": "$1,194"
+                },
+                {
+                    "partnerId": "h_hc",
+                    "partnerName": "Hotels.com",
+                    "rawPrice": 1194,
+                    "price": "$1,194"
+                },
+                {
+                    "partnerId": "h_tc",
+                    "partnerName": "Travelocity",
+                    "rawPrice": 1194,
+                    "price": "$1,194"
+                }
+            ],
+            "priceDescription": "$915 for 1 night",
+            "taxPolicy": "Taxes and fees not included",
+            "rateFeatures": [],
+            "cheapestOfferPartnerName": "SuperTravel"
+        },
+        {
+            "hotelId": "104935866",
+            "heroImage": "https://content.skyscnr.com/available/1353503676/1353503676_WxH.jpg",
+            "name": "Secret de Paris - Hotel & Spa",
+            "stars": 4,
+            "brandIds": [],
+            "distance": "1.47 miles from downtown",
+            "relevantPoiDistance": "1.39 miles from Avenue des Champs-Élysées",
+            "coordinates": [
+                2.3282822,
+                48.8813888
+            ],
+            "price": "$1,179",
+            "cheapestOfferPartnerId": "h_11",
+            "cheapestOfferRateId": null,
+            "rawPrice": 1179,
+            "rating": {
+                "description": "Outstanding",
+                "count": 2279,
+                "value": "10.0",
+                "color": "colorMonteverde"
+            },
+            "reviewSummary": {
+                "description": "Outstanding",
+                "count": 2279,
+                "formatCount": "2,279",
+                "value": "5.0",
+                "formatValue": "5.0",
+                "color": "colorMonteverde",
+                "taImage": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-64600-4.png",
+                "confidenceBadge": {
+                    "type": "location",
+                    "score": 4.5,
+                    "icon": "thumbs-up",
+                    "color": {
+                        "light": "colorMonteverde",
+                        "dark": "colorMonteverde"
+                    },
+                    "message": "Hotel location is rated 4.5/5"
+                }
+            },
+            "cheapestOffer": "meta",
+            "offerTypes": "meta",
+            "guestType": null,
+            "exclusiveDealLabel": null,
+            "pricesFrom": "1 price",
+            "images": [
+                "https://content.skyscnr.com/available/1353503676/1353503676_WxH.jpg",
+                "https://content.skyscnr.com/available/953030257/953030257_WxH.jpg",
+                "https://content.skyscnr.com/available/1270696844/1270696844_WxH.jpg"
+            ],
+            "otherRates": [],
+            "priceDescription": "$1,179 for 1 night",
+            "taxPolicy": "Taxes and fees not included",
+            "rateFeatures": [],
+            "cheapestOfferPartnerName": "SuperTravel"
+        },
+        {
+            "hotelId": "46954777",
+            "heroImage": "https://content.skyscnr.com/available/1353524808/1353524808_WxH.jpg",
+            "name": "Hôtel le Walt by Inwood Hotels",
+            "stars": 4,
+            "brandIds": [],
+            "distance": "1.37 miles from downtown",
+            "relevantPoiDistance": "0.61 miles from Eiffel Tower",
+            "coordinates": [
+                2.306657,
+                48.854749
+            ],
+            "price": "$703",
+            "cheapestOfferPartnerId": "h_pi",
+            "cheapestOfferRateId": "ewogICJhZHVsdHMiOiAyLAogICJhdXRob3JpemF0aW9uX2luZm8iOiBbCiAgICB7CiAgICAgICJDb2RlIjogIlB1YmxpY1BhcmFtZXRlciIsCiAgICAgICJWYWx1ZSI6ICJINHNJQUFBQUFBQUFBR1dSWDB2RE1CVEZ2MHRlWGVXbTZ6LzNOamZGUXNIQzNKTVZpVzAydzdMZWtxVENrSDEzYnhxbmlOQ0gzdDlKYzA3UC9XVExidFNPTFJobk03YkMzaXJyWk4rZWFxUFFLSGNpSlNhbHZOMCtvSlA2WG1rbkRjSFBoaTFWMTdBRmp6UEladzFidmN2MlVQWnI0U1RSaHNVUUp4RVVFWWVHWGVUSDBmM1hlZEJ4N0owNXJiQUw4bllUc0VGcnQxYWFDZDR2cTgxZDRLTjFlSlNtTmpoSTQwNGtQMU9reTdnaWx6MGFqMkgyaThzcGNKS2NYd2hXMkFvZHpHVC8rdTFYYStGMmFJNFRWbWdudUFrL091ZEZrdnJyTmppYVZ2NDVzcDJPTkV4b3JVVGZ5dEhQNTFCY2piWmNVMldUU3lTR2dYQkZBWmZHcUEraG45UlIrcFovK25pQ2JBRkF6elVBWEVGQmIvUkZMWTNGbnRiU3lsQy9vU3ZLOWVRS2NTaFIrRjBTaWIyelVKMWZxMThQVFdxNDFkZ2V2bXN1dTRyMlRIS1drYVp4UHdYazVCZERudlBJaHdFT0JhUUpUNG9vVGJJMGE5UDVteEI1QWdVWGI0UnZzcUlyZHFuTTVRMDdmd0ZYRUI3SlNBSUFBQT09IgogICAgfSwKICAgIHsKICAgICAgIkNvZGUiOiAiTWluUHJpY2VfUGFydG5lcl9kYXRhIiwKICAgICAgIlZhbHVlIjogIkg0c0lBQUFBQUFBQUFGV1FzVzZETUJDRzMrVm1nbXhqYkpPMVplaFdwY3JHY2dHVFdBS0R3RlJVRWUvZU15cFM2dTIrLzc1ZjFqMmhkLzV6Y3JYOThPMEFaM2hXa1l5UlRNUFFWM0FtZ3QvM25kQ2toTXBTcnBJS1FzQTFna0tsbXNhNDdSb0NtbkVwbERBOFFneDI3TkR2Z1lqU0VMRDczeVdWMG5zVXhua2t5bElXMzUrOW14VXd3U3NnaE0zU2hkaTFSY1AxZGc3WVI0dHJSa1daWmlZejBRMFQxb2ZNcVU0d3JmbEpNQ0VaWjRibGtrdHp5cVhLVloxbk4wUXRtZUY0STF3bzA1ZzJ0OW9XRld5UVFPdldDLzJrOU1HRkg3b0hESk83TzQvZDJ6Sk4xdGZFb0x4ZWFQTUl5clYrb0w5Yk9rWnFoQ255Qk9wbERrUC9ZbHkvM3VIQXIvdGNhcjV0djMvODdpS1lBUUFBIgogICAgfSwKICAgIHsKICAgICAgIkNvZGUiOiAiRml4Q2hhbmdlUmF0ZSIsCiAgICAgICJWYWx1ZSI6ICJINHNJQUFBQUFBQUFBS3RXOGkvS1RNL01TOHh4TGkwcVNzMUxybFN5VW5JTkRWTFNVZkxOekFzb3lreE9EY3JQendVS21oc1ltaGlaR1ZrWUFxWFE5YmhXSkdjazVxV25ncFRwV1JoWldKb0NGVG1YRnBmazU2WVdJUmtjR3V5Q1JRSkZ0NkdKdWFGU0xRREx1S2hEbHdBQUFBPT0iCiAgICB9CiAgXSwKICAibWluaV9wcmljZV9yb29tX2lkIjogIjcwMTQyNjI4MSIsCiAgInJhdGVfaWQiOiAiNzAxNDI2MjgxIgp9",
+            "rawPrice": 703,
+            "rating": {
+                "description": "Excellent",
+                "count": 1322,
+                "value": "9.0",
+                "color": "colorMonteverde"
+            },
+            "reviewSummary": {
+                "description": "Excellent",
+                "count": 1322,
+                "formatCount": "1,322",
+                "value": "4.5",
+                "formatValue": "4.5",
+                "color": "colorMonteverde",
+                "taImage": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-64600-4.png",
+                "confidenceBadge": {
+                    "type": "location",
+                    "score": 5,
+                    "icon": "thumbs-up",
+                    "color": {
+                        "light": "colorMonteverde",
+                        "dark": "colorMonteverde"
+                    },
+                    "message": "Hotel location is rated 5/5"
+                }
+            },
+            "cheapestOffer": "meta",
+            "offerTypes": "dbookAndMeta",
+            "guestType": null,
+            "exclusiveDealLabel": null,
+            "pricesFrom": "12 prices from",
+            "images": [
+                "https://content.skyscnr.com/available/1353524808/1353524808_WxH.jpg",
+                "https://content.skyscnr.com/available/1196067473/1196067473_WxH.jpg",
+                "https://content.skyscnr.com/available/1271685498/1271685498_WxH.jpg"
+            ],
+            "otherRates": [
+                {
+                    "partnerId": "h_zh",
+                    "partnerName": "ZenHotels",
+                    "rawPrice": 795,
+                    "price": "$795"
+                },
+                {
+                    "partnerId": "h_ei",
+                    "partnerName": "Edreams",
+                    "rawPrice": 795,
+                    "price": "$795"
+                },
+                {
+                    "partnerId": "h_bc",
+                    "partnerName": "Booking.com",
+                    "rawPrice": 795,
+                    "price": "$795"
+                },
+                {
+                    "partnerId": "h_11",
+                    "partnerName": "SuperTravel",
+                    "rawPrice": 795,
+                    "price": "$795"
+                },
+                {
+                    "partnerId": "h_fd",
+                    "partnerName": "Vio.com",
+                    "rawPrice": 796,
+                    "price": "$796"
+                },
+                {
+                    "partnerId": "h_xp",
+                    "partnerName": "Expedia",
+                    "rawPrice": 796,
+                    "price": "$796"
+                },
+                {
+                    "partnerId": "h_hc",
+                    "partnerName": "Hotels.com",
+                    "rawPrice": 796,
+                    "price": "$796"
+                },
+                {
+                    "partnerId": "h_tc",
+                    "partnerName": "Travelocity",
+                    "rawPrice": 796,
+                    "price": "$796"
+                },
+                {
+                    "partnerId": "d_sg",
+                    "partnerName": "Easytrip",
+                    "rawPrice": 797,
+                    "price": "$797"
+                },
+                {
+                    "partnerId": "d_ct",
+                    "partnerName": "Trip.com",
+                    "rawPrice": 797,
+                    "price": "$797"
+                },
+                {
+                    "partnerId": "h_tt",
+                    "partnerName": "Algotels",
+                    "rawPrice": 802,
+                    "price": "$802"
+                }
+            ],
+            "priceDescription": "$703 for 1 night",
+            "taxPolicy": "Taxes and fees not included",
+            "rateFeatures": [],
+            "cheapestOfferPartnerName": "Prestigia"
+        }
+    ],
+    "nightsForPrice": "Per night",
+    "resultsSummary": "702 results sorted by Best",
+    "filters": [
+        {
+            "type": "price_buckets",
+            "title": "Price",
+            "values": [
+                {
+                    "id": "PR_BK_0",
+                    "label": "PR_BK_0",
+                    "minPrice": 0,
+                    "maxPrice": 100,
+                    "count": 2
+                },
+                {
+                    "id": "PR_BK_1",
+                    "label": "PR_BK_1",
+                    "minPrice": 100,
+                    "maxPrice": 200,
+                    "count": 11
+                },
+                {
+                    "id": "PR_BK_2",
+                    "label": "PR_BK_2",
+                    "minPrice": 200,
+                    "maxPrice": 300,
+                    "count": 70
+                },
+                {
+                    "id": "PR_BK_3",
+                    "label": "PR_BK_3",
+                    "minPrice": 300,
+                    "maxPrice": 400,
+                    "count": 109
+                },
+                {
+                    "id": "PR_BK_4",
+                    "label": "PR_BK_4",
+                    "minPrice": 400,
+                    "maxPrice": 500,
+                    "count": 99
+                },
+                {
+                    "id": "PR_BK_5",
+                    "label": "PR_BK_5",
+                    "minPrice": 500,
+                    "maxPrice": null,
+                    "count": 411
+                }
+            ]
+        },
+        {
+            "type": "stars",
+            "title": "Star rating",
+            "values": [
+                {
+                    "id": "5",
+                    "label": "5 stars",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 13
+                },
+                {
+                    "id": "4",
+                    "label": "4 stars",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 131
+                },
+                {
+                    "id": "3",
+                    "label": "3 stars",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 299
+                },
+                {
+                    "id": "2",
+                    "label": "2 stars",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 41
+                },
+                {
+                    "id": "1",
+                    "label": "1 star",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 10
+                },
+                {
+                    "id": "no_stars",
+                    "label": "Unrated",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 208
+                }
+            ]
+        },
+        {
+            "type": "meal_plan",
+            "title": "Meal plan",
+            "values": [
+                {
+                    "id": "breakfast_included",
+                    "label": "Breakfast included",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 371
+                },
+                {
+                    "id": "RoomRates_label_mealsNotIncluded",
+                    "label": "Meals not included",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 637
+                }
+            ]
+        },
+        {
+            "type": "guest_rating",
+            "title": "Guest rating",
+            "values": [
+                {
+                    "id": "6",
+                    "label": "Satisfactory",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 54
+                },
+                {
+                    "id": "7",
+                    "label": "Good",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 99
+                },
+                {
+                    "id": "8",
+                    "label": "Very Good",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 185
+                },
+                {
+                    "id": "9",
+                    "label": "Excellent",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 145
+                },
+                {
+                    "id": "9.5",
+                    "label": "Outstanding",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 21
+                }
+            ]
+        },
+        {
+            "type": "rating",
+            "title": "Guest rating",
+            "values": [
+                {
+                    "id": "3",
+                    "label": "Satisfactory",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 54
+                },
+                {
+                    "id": "3.5",
+                    "label": "Good",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 99
+                },
+                {
+                    "id": "4",
+                    "label": "Very Good",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 185
+                },
+                {
+                    "id": "4.5",
+                    "label": "Excellent",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 146
+                },
+                {
+                    "id": "5",
+                    "label": "Outstanding",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 20
+                }
+            ]
+        },
+        {
+            "type": "guest_type",
+            "title": "Popular with",
+            "values": [
+                {
+                    "id": "business",
+                    "label": "Business travelers",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 17
+                },
+                {
+                    "id": "couple",
+                    "label": "Couples",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 12
+                },
+                {
+                    "id": "family",
+                    "label": "Families",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 23
+                },
+                {
+                    "id": "solo",
+                    "label": "Solo travelers",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 0
+                }
+            ]
+        },
+        {
+            "type": "chain",
+            "title": "Hotel chain",
+            "values": [
+                {
+                    "id": "90718434,90718876,90718490,113914895,90718394",
+                    "label": "Accor Hotels",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 34
+                },
+                {
+                    "id": "90718297",
+                    "label": "Best Western",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 6
+                },
+                {
+                    "id": "90718272",
+                    "label": "Astotel",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 5
+                },
+                {
+                    "id": "90718423",
+                    "label": "InterContinental Hotels Group",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 2
+                },
+                {
+                    "id": "90718350",
+                    "label": "Design",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 2
+                },
+                {
+                    "id": "90719405",
+                    "label": "B&B",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 2
+                },
+                {
+                    "id": "90718457",
+                    "label": "Louvre Hotels Group",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 2
+                },
+                {
+                    "id": "90718802",
+                    "label": "Hyatt Hotels Corporation",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 1
+                },
+                {
+                    "id": "90718893",
+                    "label": "Meliã Hotels International",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 1
+                },
+                {
+                    "id": "90718241",
+                    "label": "Marriott International",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 1
+                },
+                {
+                    "id": "90718323",
+                    "label": "Citadines Apart'Hotel",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 1
+                },
+                {
+                    "id": "90718598",
+                    "label": "Starhotels",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "cancellation",
+            "title": "Cancellation policy",
+            "values": [
+                {
+                    "id": "free_cancellation",
+                    "label": "Free cancellation",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 222,
+                    "type": "cancellation",
+                    "linkageType": "covid"
+                },
+                {
+                    "id": "refundable",
+                    "label": "Refundable",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 2
+                },
+                {
+                    "id": "non_refundable",
+                    "label": "Non-Refundable",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 603
+                }
+            ]
+        },
+        {
+            "type": "amenities",
+            "title": "Amenities",
+            "values": [
+                {
+                    "id": "WifiService",
+                    "label": "WiFi",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 674
+                },
+                {
+                    "id": "Parking",
+                    "label": "Parking",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 244
+                },
+                {
+                    "id": "AirConditioning",
+                    "label": "Air conditioning",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 441
+                },
+                {
+                    "id": "AirportShuttleService",
+                    "label": "Airport Shuttle",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 283
+                },
+                {
+                    "id": "Pool",
+                    "label": "Pool",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 4
+                },
+                {
+                    "id": "FitnessCenter",
+                    "label": "Fitness Center",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 70
+                },
+                {
+                    "id": "Spa",
+                    "label": "Spa",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 39
+                },
+                {
+                    "id": "FrontDesk24hService",
+                    "label": "24-hour Front Desk Service",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 520
+                },
+                {
+                    "id": "Restaurant",
+                    "label": "Restaurant",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 259
+                },
+                {
+                    "id": "NonSmokingService",
+                    "label": "Non-smoking",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 669
+                },
+                {
+                    "id": "Bathtub",
+                    "label": "Bathtub",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 2
+                },
+                {
+                    "id": "Laundry",
+                    "label": "Laundry",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 337
+                },
+                {
+                    "id": "Kitchen",
+                    "label": "Kitchen",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 31
+                },
+                {
+                    "id": "PetsAllowedService",
+                    "label": "Pets allowed",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 217
+                },
+                {
+                    "id": "Television",
+                    "label": "Television",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 144
+                },
+                {
+                    "id": "BabySittingService",
+                    "label": "Baby-sitting",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 111
+                },
+                {
+                    "id": "Lift",
+                    "label": "Elevator",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 538
+                },
+                {
+                    "id": "DisabledFacility",
+                    "label": "Accessible",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 247
+                },
+                {
+                    "id": "InternetAccessService",
+                    "label": "Internet access",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 665
+                },
+                {
+                    "id": "Heating",
+                    "label": "Heat",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 599
+                },
+                {
+                    "id": "LuggageStorage",
+                    "label": "Luggage storage",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 508
+                },
+                {
+                    "id": "RoomService",
+                    "label": "Room service",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 486
+                },
+                {
+                    "id": "SafeDepositBox",
+                    "label": "Safe deposit box",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 488
+                },
+                {
+                    "id": "MultilingualStaffService",
+                    "label": "Multilingual staff",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 441
+                },
+                {
+                    "id": "WiFiInDesignatedAreas",
+                    "label": "WiFi in common areas",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 424
+                },
+                {
+                    "id": "FirstAidRoom",
+                    "label": "First-aid room",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 442
+                },
+                {
+                    "id": "ConciergeService",
+                    "label": "Concierge",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 418
+                },
+                {
+                    "id": "Fax",
+                    "label": "Fax",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 400
+                },
+                {
+                    "id": "Photocopier",
+                    "label": "Photocopier",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 390
+                },
+                {
+                    "id": "ExpressCheckinService",
+                    "label": "Express check-in",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 383
+                },
+                {
+                    "id": "Bar",
+                    "label": "Bar",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 306
+                },
+                {
+                    "id": "ExpressCheckoutService",
+                    "label": "Express check-out",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 346
+                },
+                {
+                    "id": "TicketOffice",
+                    "label": "Ticket office",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 283
+                },
+                {
+                    "id": "HairDryer",
+                    "label": "Hairdryer",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 303
+                },
+                {
+                    "id": "Desk",
+                    "label": "Desk",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 234
+                },
+                {
+                    "id": "Telephone",
+                    "label": "Telephone",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 229
+                },
+                {
+                    "id": "Cafe",
+                    "label": "Café",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 211
+                },
+                {
+                    "id": "IroningService",
+                    "label": "Iron",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 175
+                },
+                {
+                    "id": "ShuttleService",
+                    "label": "Shuttle service",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 180
+                },
+                {
+                    "id": "WakeUpCallService",
+                    "label": "Wake-up call",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 152
+                },
+                {
+                    "id": "Shower",
+                    "label": "Shower",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 162
+                },
+                {
+                    "id": "TourService",
+                    "label": "Tours",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 160
+                },
+                {
+                    "id": "Lounge",
+                    "label": "Lounge",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 151
+                },
+                {
+                    "id": "WheelChairAccess",
+                    "label": "Wheelchair accessible",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 150
+                },
+                {
+                    "id": "SatelliteTV",
+                    "label": "Satellite TV",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 128
+                },
+                {
+                    "id": "MeetingRoom",
+                    "label": "Meeting facilities",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 132
+                },
+                {
+                    "id": "MiniBar",
+                    "label": "Minibar",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 108
+                },
+                {
+                    "id": "BanquetingService",
+                    "label": "Banquet service",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 111
+                },
+                {
+                    "id": "Teahouse",
+                    "label": "Teahouse",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 102
+                },
+                {
+                    "id": "BusinessCenter",
+                    "label": "Business center",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 104
+                },
+                {
+                    "id": "LobbyBar",
+                    "label": "Lobby bar",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 96
+                },
+                {
+                    "id": "GameRoom",
+                    "label": "Gameroom",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 104
+                },
+                {
+                    "id": "SmokingArea",
+                    "label": "Smoking areas",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 94
+                },
+                {
+                    "id": "BottledWaterService",
+                    "label": "Complimentary bottled water",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 85
+                },
+                {
+                    "id": "Garden",
+                    "label": "Garden",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 94
+                },
+                {
+                    "id": "Library",
+                    "label": "Library",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 60
+                },
+                {
+                    "id": "BicycleRentalService",
+                    "label": "Bicycle rental",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 92
+                },
+                {
+                    "id": "BeautySalon",
+                    "label": "Beauty salon",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 61
+                },
+                {
+                    "id": "CarRental",
+                    "label": "Car rental",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 60
+                },
+                {
+                    "id": "NonsmokingFloor",
+                    "label": "Non-smoking floor",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 50
+                },
+                {
+                    "id": "CurrencyExchangeService",
+                    "label": "Currency exchange",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 36
+                },
+                {
+                    "id": "MassageService",
+                    "label": "Massage",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 38
+                },
+                {
+                    "id": "Sauna",
+                    "label": "Sauna",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 33
+                },
+                {
+                    "id": "BathrobeService",
+                    "label": "Bathrobe",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 27
+                },
+                {
+                    "id": "SecurityService",
+                    "label": "Security",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 39
+                },
+                {
+                    "id": "Fireplace",
+                    "label": "Fireplace",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 24
+                },
+                {
+                    "id": "CoffeeMaker",
+                    "label": "Coffee-maker",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 32
+                },
+                {
+                    "id": "SteamRoom",
+                    "label": "Steam Room",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 24
+                },
+                {
+                    "id": "TrouserPress",
+                    "label": "Pants press",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 22
+                },
+                {
+                    "id": "IndoorParking",
+                    "label": "Indoor parking",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 20
+                },
+                {
+                    "id": "DoormanService",
+                    "label": "Doorman",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 16
+                },
+                {
+                    "id": "ChildrenFacility",
+                    "label": "Children's play area",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 15
+                },
+                {
+                    "id": "DoctorOnCallService",
+                    "label": "On-call Doctor",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 11
+                },
+                {
+                    "id": "CashMachine",
+                    "label": "ATM machine",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 17
+                },
+                {
+                    "id": "ShoePolishingService",
+                    "label": "Shoe polishing",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 13
+                },
+                {
+                    "id": "Shop",
+                    "label": "Shops",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 14
+                },
+                {
+                    "id": "ConnectingRoomsService",
+                    "label": "Connecting rooms",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 9
+                },
+                {
+                    "id": "StationShuttleService",
+                    "label": "Station shuttle",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 11
+                },
+                {
+                    "id": "ValetParkingService",
+                    "label": "Valet parking",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 10
+                },
+                {
+                    "id": "Billiards",
+                    "label": "Pool Table",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 16
+                },
+                {
+                    "id": "Microwave",
+                    "label": "Microwave",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 13
+                },
+                {
+                    "id": "Nightclub",
+                    "label": "Nightclub",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 10
+                },
+                {
+                    "id": "ATM",
+                    "label": "ATM",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 6
+                },
+                {
+                    "id": "TableTennis",
+                    "label": "Table tennis",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 14
+                },
+                {
+                    "id": "TennisCourt",
+                    "label": "Tennis court",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 17
+                },
+                {
+                    "id": "Hairdressers",
+                    "label": "Hairdressers",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 7
+                },
+                {
+                    "id": "SquashCourt",
+                    "label": "Squash",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 15
+                },
+                {
+                    "id": "Solarium",
+                    "label": "Solarium",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 5
+                },
+                {
+                    "id": "Karaoke",
+                    "label": "Karaoke",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 13
+                },
+                {
+                    "id": "Minigolf",
+                    "label": "Minigolf",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 12
+                },
+                {
+                    "id": "SunUmbrella",
+                    "label": "Beach umbrellas",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 6
+                },
+                {
+                    "id": "UVSunbeds",
+                    "label": "Tanning beds",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 5
+                },
+                {
+                    "id": "DiningRoom",
+                    "label": "Dining room",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 6
+                },
+                {
+                    "id": "Playground",
+                    "label": "Playground",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 4
+                },
+                {
+                    "id": "IndoorSwimmingPool",
+                    "label": "Indoor pool",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 4
+                },
+                {
+                    "id": "ExecutiveLounge",
+                    "label": "Executive lounge",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 3
+                },
+                {
+                    "id": "ConferenceFacility",
+                    "label": "Conference facilities",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 2
+                },
+                {
+                    "id": "WeddingFacility",
+                    "label": "Wedding facilities",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 2
+                },
+                {
+                    "id": "BellStaffService",
+                    "label": "Bell staff",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 1
+                },
+                {
+                    "id": "BowlingAlley",
+                    "label": "Bowling alley",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 4
+                },
+                {
+                    "id": "LateCheckoutService",
+                    "label": "Late check-out",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 1
+                },
+                {
+                    "id": "Balcony",
+                    "label": "Balcony",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 2
+                },
+                {
+                    "id": "Gymnasium",
+                    "label": "Gym",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 1
+                },
+                {
+                    "id": "OutdoorSwimmingPool",
+                    "label": "Outdoor pool",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 1
+                },
+                {
+                    "id": "BreakfastRoom",
+                    "label": "Breakfast room",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 1
+                },
+                {
+                    "id": "GolfAmenity",
+                    "label": "Golf Course",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 1
+                },
+                {
+                    "id": "ExecutiveFloor",
+                    "label": "Executive floor",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 1
+                },
+                {
+                    "id": "Chapel",
+                    "label": "Chapel",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 3
+                },
+                {
+                    "id": "VideogameService",
+                    "label": "Videogame console",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 1
+                },
+                {
+                    "id": "WaterSportsService",
+                    "label": "Watersports",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 4
+                },
+                {
+                    "id": "Barbeque",
+                    "label": "Grill",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 3
+                },
+                {
+                    "id": "HorseRidingService",
+                    "label": "Horseback riding",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 3
+                },
+                {
+                    "id": "SmokingService",
+                    "label": "Smoking rooms",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 1
+                },
+                {
+                    "id": "Snorkeling",
+                    "label": "Snorkeling",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 1
+                },
+                {
+                    "id": "SunbathingArea",
+                    "label": "Sunbathing area",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 1
+                },
+                {
+                    "id": "HotSpring",
+                    "label": "Hot Spring Bath (Onsen) ",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "property_type",
+            "title": "Accommodation type",
+            "values": [
+                {
+                    "id": "Hotel",
+                    "label": "Hotel",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 511
+                },
+                {
+                    "id": "ResidenceHotel",
+                    "label": "Residence",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 0
+                },
+                {
+                    "id": "Hostel",
+                    "label": "Hostel",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 6
+                },
+                {
+                    "id": "GuestHouse",
+                    "label": "Guest House",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 4
+                },
+                {
+                    "id": "PrivateHome",
+                    "label": "Private home",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 0
+                },
+                {
+                    "id": "CountryHouse",
+                    "label": "Country House",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 0
+                },
+                {
+                    "id": "TemporaryResidence",
+                    "label": "TemporaryResidence",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 0
+                },
+                {
+                    "id": "Resort",
+                    "label": "Resort",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 0
+                },
+                {
+                    "id": "UniqueStays",
+                    "label": "Unique stays",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 0
+                },
+                {
+                    "id": "HolidayRentals",
+                    "label": "Vacation rentals",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 0
+                },
+                {
+                    "id": "Apartment",
+                    "label": "Apartment",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 181
+                }
+            ]
+        },
+        {
+            "type": "district",
+            "title": "Neighborhoods",
+            "values": [
+                {
+                    "id": "27562713",
+                    "label": "10Th Arrondissement ",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 49
+                },
+                {
+                    "id": "27562707",
+                    "label": "11Th Arrondissement ",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 24
+                },
+                {
+                    "id": "27562568",
+                    "label": "6Th Arrondissement",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 23
+                },
+                {
+                    "id": "27562657",
+                    "label": "2Nd Arrondissement ",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 28
+                },
+                {
+                    "id": "27562947",
+                    "label": "15Th Arrondissement",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 25
+                },
+                {
+                    "id": "213344234",
+                    "label": "Saint-Georges",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 11
+                },
+                {
+                    "id": "27562769",
+                    "label": "9Th Arrondissement",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 34
+                },
+                {
+                    "id": "27562569",
+                    "label": "5Th Arrondissement",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 18
+                },
+                {
+                    "id": "27562946",
+                    "label": "18Th Arrondissement",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 23
+                },
+                {
+                    "id": "27562651",
+                    "label": "1St Arrondissement",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 13
+                },
+                {
+                    "id": "27562771",
+                    "label": "8Th Arrondissement",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 18
+                },
+                {
+                    "id": "213344233",
+                    "label": "Faubourg-Montmartre",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 10
+                },
+                {
+                    "id": "213381558",
+                    "label": "Montparnasse",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 7
+                },
+                {
+                    "id": "27562463",
+                    "label": "12Th Arrondissement",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 12
+                },
+                {
+                    "id": "27562770",
+                    "label": "14Th Arrondissement",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 11
+                },
+                {
+                    "id": "213371537",
+                    "label": "Folie-Méricourt",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 6
+                },
+                {
+                    "id": "27562695",
+                    "label": "4Th Arrondissement ",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 11
+                },
+                {
+                    "id": "213381650",
+                    "label": "Latin Quarter",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 7
+                },
+                {
+                    "id": "213381901",
+                    "label": "Montmartre",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 5
+                },
+                {
+                    "id": "213371612",
+                    "label": "Quinze-Vingts",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 5
+                },
+                {
+                    "id": "27562625",
+                    "label": "13Th Arrondissement ",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 11
+                },
+                {
+                    "id": "27562761",
+                    "label": "3Rd Arrondissement ",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 10
+                },
+                {
+                    "id": "213344225",
+                    "label": "Ternes",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 6
+                },
+                {
+                    "id": "213344220",
+                    "label": "Les Halles",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 4
+                },
+                {
+                    "id": "27562542",
+                    "label": "16Th Arrondissement",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 22
+                },
+                {
+                    "id": "27562562",
+                    "label": "7Th Arrondissement",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 9
+                },
+                {
+                    "id": "213344230",
+                    "label": "Madeleine",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 3
+                },
+                {
+                    "id": "213381452",
+                    "label": "Faubourg Saint-Germain",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 6
+                },
+                {
+                    "id": "213381328",
+                    "label": "Le Marais",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 4
+                },
+                {
+                    "id": "213381863",
+                    "label": "Roquette",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 5
+                },
+                {
+                    "id": "213344219",
+                    "label": "L'Europe",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 4
+                },
+                {
+                    "id": "213371527",
+                    "label": "Clignancourt",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 4
+                },
+                {
+                    "id": "27562276",
+                    "label": "20Th Arrondissement",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 7
+                },
+                {
+                    "id": "213381601",
+                    "label": "Petit-Montrouge",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 3
+                },
+                {
+                    "id": "213377755",
+                    "label": "Charonne",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 3
+                },
+                {
+                    "id": "27562796",
+                    "label": "17Th Arrondissement",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 12
+                },
+                {
+                    "id": "213381297",
+                    "label": "Plaisance",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 3
+                },
+                {
+                    "id": "213344223",
+                    "label": "Chaillot",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 4
+                },
+                {
+                    "id": "213381662",
+                    "label": "Salpêtrière",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 1
+                },
+                {
+                    "id": "213377927",
+                    "label": "Belleville",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 2
+                },
+                {
+                    "id": "213344232",
+                    "label": "Bonne-Nouvelle",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 1
+                },
+                {
+                    "id": "213344229",
+                    "label": "Épinettes",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 3
+                },
+                {
+                    "id": "213381796",
+                    "label": "Place D'Italie",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 3
+                },
+                {
+                    "id": "27562157",
+                    "label": "19Th Arrondissement",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 4
+                },
+                {
+                    "id": "213344221",
+                    "label": "Auteuil",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 1
+                },
+                {
+                    "id": "213371529",
+                    "label": "Hôpital-Saint-Louis",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 1
+                },
+                {
+                    "id": "213344228",
+                    "label": "Batignolles",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 1
+                },
+                {
+                    "id": "213381835",
+                    "label": "Gare",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 1
+                },
+                {
+                    "id": "213377987",
+                    "label": "Villette",
+                    "minPrice": null,
+                    "maxPrice": null,
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "discounts",
+            "title": "Deals",
+            "values": [
+                {
+                    "id": "1",
+                    "label": "Show discounts"
+                }
+            ]
+        }
+    ],
+    "sortOptions": [
+        {
+            "optionName": "Best",
+            "type": "-relevance"
+        },
+        {
+            "optionName": "Price (high to low)",
+            "type": "-price"
+        },
+        {
+            "optionName": "Price (low to high)",
+            "type": "price"
+        },
+        {
+            "optionName": "Distance from downtown",
+            "type": "distance"
+        },
+        {
+            "optionName": "Guest rating",
+            "type": "-hotel_rating"
+        },
+        {
+            "optionName": "Stars (5 to 1)",
+            "type": "-stars"
+        },
+        {
+            "optionName": "Stars (1 to 5)",
+            "type": "stars"
+        }
+    ],
+    "closedUserGroupDeals": [
+        "general"
+    ],
+    "pricePolicy": "Taxes and fees not included",
+    "mapBoundary": {
+        "n_e_lat": 48.888417552,
+        "s_w_lat": 48.8277196928,
+        "n_e_lng": 2.370467656,
+        "s_w_lng": 2.304202744
+    },
+    "hotelPivot": null,
+    "medianMinPrice": null,
+    "entity": {
+        "official_center": {
+            "type": "Point",
+            "coordinates": [
+                2.3354553,
+                48.8606111
+            ]
+        },
+        "entity_type": "City",
+        "entity_id": "27539733",
+        "name": "Paris",
+        "centroid": {
+            "type": "Point",
+            "coordinates": [
+                2.342875993,
+                48.8566223751
+            ]
+        },
+        "levelOfEntityType": "PoliticalTypes"
+    },
+    "location": [
+        {
+            "entity_id": "44293395",
+            "name": "Île-de-France",
+            "entity_type": "FirstLevelNationAdministrativeDivision"
+        },
+        {
+            "entity_id": "29475385",
+            "name": "France",
+            "entity_type": "Nation"
+        }
+    ],
+    "priceType": "per",
+    "localCurrency": "EUR",
+    "hotelsCoordinates": [
+        {
+            "longitude": 2.3390314,
+            "latitude": 48.8544669,
+            "hotelId": "46945507"
+        },
+        {
+            "longitude": 2.3452823,
+            "latitude": 48.8587668,
+            "hotelId": "46943104"
+        },
+        {
+            "longitude": 2.32339,
+            "latitude": 48.87526,
+            "hotelId": "203914268"
+        },
+        {
+            "longitude": 2.32687,
+            "latitude": 48.86828,
+            "hotelId": "46941272"
+        },
+        {
+            "longitude": 2.3569809,
+            "latitude": 48.8762474,
+            "hotelId": "104926371"
+        },
+        {
+            "longitude": 2.3558,
+            "latitude": 48.837798,
+            "hotelId": "46958397"
+        },
+        {
+            "longitude": 2.3252972,
+            "latitude": 48.8834012,
+            "hotelId": "118638141"
+        },
+        {
+            "longitude": 2.3680134,
+            "latitude": 48.8605191,
+            "hotelId": "104949659"
+        },
+        {
+            "longitude": 2.3282822,
+            "latitude": 48.8813888,
+            "hotelId": "104935866"
+        },
+        {
+            "longitude": 2.306657,
+            "latitude": 48.854749,
+            "hotelId": "46954777"
+        }
+    ],
+    "hotelsRegion": {
+        "latitude": 48.875840600000004,
+        "longitude": 2.3258361,
+        "longitudeDelta": 0.012892200000000013,
+        "latitudeDelta": 0.023121200000002944
+    },
+    "totalHotels": 702,
+    "totalHotelsFiltered": 702,
+    "pois": [
+        {
+            "sub_poi_type": "Airport",
+            "is_extend": null,
+            "name": "Paris Charles de Gaulle",
+            "id": 95565041,
+            "coordinate": [
+                2.5481698,
+                49.0096176
+            ],
+            "image_url": null,
+            "type": "Transportation"
+        },
+        {
+            "sub_poi_type": "Airport",
+            "is_extend": null,
+            "name": "Paris Orly",
+            "id": 95565040,
+            "coordinate": [
+                2.357222,
+                48.728889
+            ],
+            "image_url": null,
+            "type": "Transportation"
+        },
+        {
+            "sub_poi_type": "Airport",
+            "is_extend": null,
+            "name": "Paris Beauvais",
+            "id": 95566278,
+            "coordinate": [
+                2.1125,
+                49.455833
+            ],
+            "image_url": null,
+            "type": "Transportation"
+        },
+        {
+            "sub_poi_type": "Airport",
+            "is_extend": null,
+            "name": "Paris Le Bourget",
+            "id": 129053609,
+            "coordinate": [
+                2.4425,
+                48.971944
+            ],
+            "image_url": null,
+            "type": "Transportation"
+        },
+        {
+            "sub_poi_type": "TouristAttraction",
+            "is_extend": null,
+            "name": "Eiffel Tower",
+            "id": 206569560,
+            "coordinate": [
+                2.2944813,
+                48.8583701
+            ],
+            "image_url": "https://content.skyscnr.com/POI/206569560/2870204/2870204_WxH.jpg",
+            "type": "Landmark"
+        }
+    ],
+    "discountAnalysis": {
+        "couponHotels": [],
+        "couponRanks": [],
+        "couponAmounts": [],
+        "discountPercentage": null,
+        "couponType": null,
+        "hasCugDeal": false,
+        "cugHotels": [],
+        "cugRanks": [],
+        "cugAmounts": []
+    },
+    "outBoundIndex": -1,
+    "partners": [
+        "Booking.com",
+        "Trip.com",
+        "Hotels.com",
+        "Hyatt",
+        "Expedia",
+        "IHG"
+    ],
+    "covidFilter": {
+        "title": "Book with peace of mind",
+        "filterOptions": [
+            {
+                "id": "free_cancellation",
+                "type": "covid",
+                "count": 222,
+                "linkageType": "cancellation",
+                "label": "Free cancellation"
+            },
+            {
+                "id": "RoomRates_option_payOnArrival",
+                "type": "covid",
+                "count": 212,
+                "linkageType": "pay_type",
+                "label": "Pay on arrival"
+            }
+        ],
+        "switcherOptions": [
+            {
+                "id": "free_cancellation",
+                "type": "covid",
+                "count": 222,
+                "linkageType": "cancellation",
+                "label": "Only show hotels with free cancellation",
+                "filterLabel": "Free cancellation"
+            }
+        ]
+    },
+    "poiFilter": {
+        "entity": null,
+        "defaultPoiItem": null,
+        "poiFilterTitle": "From where?",
+        "poiRecommendCardTitle": "Search for hotels close to",
+        "poiTypeIconMapping": {
+            "Beach": "beach",
+            "Landmark": "landmark",
+            "Entertainment": "bar",
+            "Shopping": "deals",
+            "Transportation": "cars",
+            "Education": "education"
+        },
+        "translations": {
+            "Beach": "Beach",
+            "Landmark": "Landmark",
+            "Entertainment": "Entertainment",
+            "Shopping": "Shopping",
+            "Transportation": "Transportation",
+            "Education": "Education"
+        },
+        "quickSelectOptions": [
+            {
+                "sub_poi_type": "TouristAttraction",
+                "name": "Eiffel Tower",
+                "id": "206569560",
+                "coordinate": "2.2944813,48.8583701",
+                "image_url": "https://content.skyscnr.com/POI/206569560/2870204/2870204_WxH.jpg",
+                "type": "Landmark",
+                "icon": "landmark"
+            },
+            {
+                "sub_poi_type": "Stadium",
+                "name": "Charlety Stadium",
+                "id": "208538858",
+                "coordinate": "2.3466507,48.8185755",
+                "image_url": null,
+                "type": "Entertainment",
+                "icon": "bar"
+            },
+            {
+                "sub_poi_type": "ShoppingMall",
+                "name": "Bvlgari Galeries Lafayette",
+                "id": "207979418",
+                "coordinate": "2.3319359,48.873317",
+                "image_url": null,
+                "type": "Shopping",
+                "icon": "deals"
+            },
+            {
+                "sub_poi_type": "Airport",
+                "name": "Paris Charles de Gaulle",
+                "id": "95565041",
+                "coordinate": "2.5481698,49.0096176",
+                "image_url": null,
+                "type": "Transportation",
+                "icon": "cars"
+            },
+            {
+                "sub_poi_type": "UniversityBuilding",
+                "name": "Paris-Sorbonne University",
+                "id": "208368368",
+                "coordinate": "2.342777729,48.8486099243",
+                "image_url": null,
+                "type": "Education",
+                "icon": "education"
+            }
+        ],
+        "allOptions": [
+            {
+                "sub_poi_type": "TouristAttraction",
+                "name": "Eiffel Tower",
+                "id": "206569560",
+                "coordinate": "2.2944813,48.8583701",
+                "image_url": "https://content.skyscnr.com/POI/206569560/2870204/2870204_WxH.jpg",
+                "type": "Landmark",
+                "icon": "landmark"
+            },
+            {
+                "sub_poi_type": "TouristAttraction",
+                "name": "Avenue des Champs-Élysées",
+                "id": "206568400",
+                "coordinate": "2.3014830974000002,48.8716921646",
+                "image_url": null,
+                "type": "Landmark",
+                "icon": "landmark"
+            },
+            {
+                "sub_poi_type": "TouristAttraction",
+                "name": "Louvre Museum",
+                "id": "206569389",
+                "coordinate": "2.337644,48.8606111",
+                "image_url": "https://content.skyscnr.com/POI/206569389/1738091/1738091_WxH.jpg",
+                "type": "Landmark",
+                "icon": "landmark"
+            },
+            {
+                "sub_poi_type": "TouristAttraction",
+                "name": "Seine River",
+                "id": "206568397",
+                "coordinate": "2.296192795,48.8623922873",
+                "image_url": "https://content.skyscnr.com/POI/206568397/2870496/2870496_WxH.jpg",
+                "type": "Landmark",
+                "icon": "landmark"
+            },
+            {
+                "sub_poi_type": "TouristAttraction",
+                "name": "Arc de Triomphe de l’Etoile",
+                "id": "206569845",
+                "coordinate": "2.2950274999999998,48.8737917",
+                "image_url": "https://content.skyscnr.com/POI/206569845/2870394/2870394_WxH.jpg",
+                "type": "Landmark",
+                "icon": "landmark"
+            },
+            {
+                "sub_poi_type": "Stadium",
+                "name": "Charlety Stadium",
+                "id": "208538858",
+                "coordinate": "2.3466507,48.8185755",
+                "image_url": null,
+                "type": "Entertainment",
+                "icon": "bar"
+            },
+            {
+                "sub_poi_type": "Stadium",
+                "name": "Parc Municipal des Sports",
+                "id": "209408091",
+                "coordinate": "2.4404719999999998,48.83599",
+                "image_url": null,
+                "type": "Entertainment",
+                "icon": "bar"
+            },
+            {
+                "sub_poi_type": "Stadium",
+                "name": "Stade de saint-nazaire",
+                "id": "209441992",
+                "coordinate": "2.3028502,48.859352",
+                "image_url": null,
+                "type": "Entertainment",
+                "icon": "bar"
+            },
+            {
+                "sub_poi_type": "Stadium",
+                "name": "Stade Pershing",
+                "id": "209447733",
+                "coordinate": "2.4545157,48.82956",
+                "image_url": null,
+                "type": "Entertainment",
+                "icon": "bar"
+            },
+            {
+                "sub_poi_type": "Stadium",
+                "name": "Stade Bertrand Dauvin",
+                "id": "209464142",
+                "coordinate": "2.342395,48.899822",
+                "image_url": null,
+                "type": "Entertainment",
+                "icon": "bar"
+            },
+            {
+                "sub_poi_type": "Airport",
+                "name": "Paris Charles de Gaulle",
+                "id": "95565041",
+                "coordinate": "2.5481698,49.0096176",
+                "image_url": null,
+                "type": "Transportation",
+                "icon": "cars"
+            },
+            {
+                "sub_poi_type": "Airport",
+                "name": "Paris Orly",
+                "id": "95565040",
+                "coordinate": "2.357222,48.728889",
+                "image_url": null,
+                "type": "Transportation",
+                "icon": "cars"
+            },
+            {
+                "sub_poi_type": "Airport",
+                "name": "Paris Beauvais",
+                "id": "95566278",
+                "coordinate": "2.1125,49.455833",
+                "image_url": null,
+                "type": "Transportation",
+                "icon": "cars"
+            },
+            {
+                "sub_poi_type": "Airport",
+                "name": "Paris Le Bourget",
+                "id": "129053609",
+                "coordinate": "2.4425,48.971944",
+                "image_url": null,
+                "type": "Transportation",
+                "icon": "cars"
+            },
+            {
+                "sub_poi_type": "TrainStation",
+                "name": "Gare Montparnasse",
+                "id": "207975788",
+                "coordinate": "2.319467,48.840753",
+                "image_url": null,
+                "type": "Transportation",
+                "icon": "cars"
+            },
+            {
+                "sub_poi_type": "ShoppingMall",
+                "name": "Bvlgari Galeries Lafayette",
+                "id": "207979418",
+                "coordinate": "2.3319359,48.873317",
+                "image_url": null,
+                "type": "Shopping",
+                "icon": "deals"
+            },
+            {
+                "sub_poi_type": "ShoppingMall",
+                "name": "Fauchon",
+                "id": "217809595",
+                "coordinate": "2.3236932,48.8703455",
+                "image_url": null,
+                "type": "Shopping",
+                "icon": "deals"
+            },
+            {
+                "sub_poi_type": "ShoppingMall",
+                "name": "Chaumet",
+                "id": "217945848",
+                "coordinate": "2.3301007,48.8669016",
+                "image_url": null,
+                "type": "Shopping",
+                "icon": "deals"
+            },
+            {
+                "sub_poi_type": "ShoppingMall",
+                "name": "Galeries Lafayette Haussmann",
+                "id": "207972138",
+                "coordinate": "2.33215,48.873588",
+                "image_url": null,
+                "type": "Shopping",
+                "icon": "deals"
+            },
+            {
+                "sub_poi_type": "ShoppingMall",
+                "name": "Bvlgari Paris Place Vendôme",
+                "id": "207979394",
+                "coordinate": "2.329958527,48.8682444986",
+                "image_url": null,
+                "type": "Shopping",
+                "icon": "deals"
+            },
+            {
+                "sub_poi_type": "UniversityBuilding",
+                "name": "Paris-Sorbonne University",
+                "id": "208368368",
+                "coordinate": "2.342777729,48.8486099243",
+                "image_url": null,
+                "type": "Education",
+                "icon": "education"
+            },
+            {
+                "sub_poi_type": "UniversityBuilding",
+                "name": "Institut d'Études Politiques de Paris",
+                "id": "208368456",
+                "coordinate": "2.3283700943,48.8540992737",
+                "image_url": null,
+                "type": "Education",
+                "icon": "education"
+            },
+            {
+                "sub_poi_type": "UniversityBuilding",
+                "name": "Conservatoire de Paris",
+                "id": "208368370",
+                "coordinate": "2.3909900188,48.8889007568",
+                "image_url": null,
+                "type": "Education",
+                "icon": "education"
+            },
+            {
+                "sub_poi_type": "UniversityBuilding",
+                "name": "University of Paris III: Sorbonne Nouvelle",
+                "id": "208368423",
+                "coordinate": "2.3538799286,48.8398017883",
+                "image_url": null,
+                "type": "Education",
+                "icon": "education"
+            },
+            {
+                "sub_poi_type": "UniversityBuilding",
+                "name": "ESCP Europe Wirtschaftshochschule Berlin",
+                "id": "208368668",
+                "coordinate": "2.3807888031,48.8643989563",
+                "image_url": null,
+                "type": "Education",
+                "icon": "education"
+            }
+        ],
+        "clusterList": [
+            [
+                {
+                    "sub_poi_type": "TouristAttraction",
+                    "name": "Eiffel Tower",
+                    "id": "206569560",
+                    "coordinate": "2.2944813,48.8583701",
+                    "image_url": "https://content.skyscnr.com/POI/206569560/2870204/2870204_WxH.jpg",
+                    "type": "Landmark",
+                    "icon": "landmark"
+                },
+                {
+                    "sub_poi_type": "TouristAttraction",
+                    "name": "Avenue des Champs-Élysées",
+                    "id": "206568400",
+                    "coordinate": "2.3014830974000002,48.8716921646",
+                    "image_url": null,
+                    "type": "Landmark",
+                    "icon": "landmark"
+                },
+                {
+                    "sub_poi_type": "TouristAttraction",
+                    "name": "Louvre Museum",
+                    "id": "206569389",
+                    "coordinate": "2.337644,48.8606111",
+                    "image_url": "https://content.skyscnr.com/POI/206569389/1738091/1738091_WxH.jpg",
+                    "type": "Landmark",
+                    "icon": "landmark"
+                },
+                {
+                    "sub_poi_type": "TouristAttraction",
+                    "name": "Seine River",
+                    "id": "206568397",
+                    "coordinate": "2.296192795,48.8623922873",
+                    "image_url": "https://content.skyscnr.com/POI/206568397/2870496/2870496_WxH.jpg",
+                    "type": "Landmark",
+                    "icon": "landmark"
+                },
+                {
+                    "sub_poi_type": "Stadium",
+                    "name": "Charlety Stadium",
+                    "id": "208538858",
+                    "coordinate": "2.3466507,48.8185755",
+                    "image_url": null,
+                    "type": "Entertainment",
+                    "icon": "bar"
+                },
+                {
+                    "sub_poi_type": "ShoppingMall",
+                    "name": "Bvlgari Galeries Lafayette",
+                    "id": "207979418",
+                    "coordinate": "2.3319359,48.873317",
+                    "image_url": null,
+                    "type": "Shopping",
+                    "icon": "deals"
+                }
+            ],
+            [
+                {
+                    "sub_poi_type": "TouristAttraction",
+                    "name": "Arc de Triomphe de l’Etoile",
+                    "id": "206569845",
+                    "coordinate": "2.2950274999999998,48.8737917",
+                    "image_url": "https://content.skyscnr.com/POI/206569845/2870394/2870394_WxH.jpg",
+                    "type": "Landmark",
+                    "icon": "landmark"
+                },
+                {
+                    "sub_poi_type": "Stadium",
+                    "name": "Parc Municipal des Sports",
+                    "id": "209408091",
+                    "coordinate": "2.4404719999999998,48.83599",
+                    "image_url": null,
+                    "type": "Entertainment",
+                    "icon": "bar"
+                },
+                {
+                    "sub_poi_type": "ShoppingMall",
+                    "name": "Fauchon",
+                    "id": "217809595",
+                    "coordinate": "2.3236932,48.8703455",
+                    "image_url": null,
+                    "type": "Shopping",
+                    "icon": "deals"
+                },
+                {
+                    "sub_poi_type": "Airport",
+                    "name": "Paris Charles de Gaulle",
+                    "id": "95565041",
+                    "coordinate": "2.5481698,49.0096176",
+                    "image_url": null,
+                    "type": "Transportation",
+                    "icon": "cars"
+                },
+                {
+                    "sub_poi_type": "UniversityBuilding",
+                    "name": "Paris-Sorbonne University",
+                    "id": "208368368",
+                    "coordinate": "2.342777729,48.8486099243",
+                    "image_url": null,
+                    "type": "Education",
+                    "icon": "education"
+                },
+                {
+                    "sub_poi_type": "Stadium",
+                    "name": "Stade de saint-nazaire",
+                    "id": "209441992",
+                    "coordinate": "2.3028502,48.859352",
+                    "image_url": null,
+                    "type": "Entertainment",
+                    "icon": "bar"
+                }
+            ],
+            [
+                {
+                    "sub_poi_type": "Stadium",
+                    "name": "Stade Pershing",
+                    "id": "209447733",
+                    "coordinate": "2.4545157,48.82956",
+                    "image_url": null,
+                    "type": "Entertainment",
+                    "icon": "bar"
+                },
+                {
+                    "sub_poi_type": "ShoppingMall",
+                    "name": "Chaumet",
+                    "id": "217945848",
+                    "coordinate": "2.3301007,48.8669016",
+                    "image_url": null,
+                    "type": "Shopping",
+                    "icon": "deals"
+                },
+                {
+                    "sub_poi_type": "Airport",
+                    "name": "Paris Orly",
+                    "id": "95565040",
+                    "coordinate": "2.357222,48.728889",
+                    "image_url": null,
+                    "type": "Transportation",
+                    "icon": "cars"
+                },
+                {
+                    "sub_poi_type": "UniversityBuilding",
+                    "name": "Institut d'Études Politiques de Paris",
+                    "id": "208368456",
+                    "coordinate": "2.3283700943,48.8540992737",
+                    "image_url": null,
+                    "type": "Education",
+                    "icon": "education"
+                },
+                {
+                    "sub_poi_type": "Stadium",
+                    "name": "Stade Bertrand Dauvin",
+                    "id": "209464142",
+                    "coordinate": "2.342395,48.899822",
+                    "image_url": null,
+                    "type": "Entertainment",
+                    "icon": "bar"
+                },
+                {
+                    "sub_poi_type": "ShoppingMall",
+                    "name": "Galeries Lafayette Haussmann",
+                    "id": "207972138",
+                    "coordinate": "2.33215,48.873588",
+                    "image_url": null,
+                    "type": "Shopping",
+                    "icon": "deals"
+                }
+            ],
+            [
+                {
+                    "sub_poi_type": "ShoppingMall",
+                    "name": "Bvlgari Paris Place Vendôme",
+                    "id": "207979394",
+                    "coordinate": "2.329958527,48.8682444986",
+                    "image_url": null,
+                    "type": "Shopping",
+                    "icon": "deals"
+                },
+                {
+                    "sub_poi_type": "Airport",
+                    "name": "Paris Beauvais",
+                    "id": "95566278",
+                    "coordinate": "2.1125,49.455833",
+                    "image_url": null,
+                    "type": "Transportation",
+                    "icon": "cars"
+                },
+                {
+                    "sub_poi_type": "UniversityBuilding",
+                    "name": "Conservatoire de Paris",
+                    "id": "208368370",
+                    "coordinate": "2.3909900188,48.8889007568",
+                    "image_url": null,
+                    "type": "Education",
+                    "icon": "education"
+                },
+                {
+                    "sub_poi_type": "Airport",
+                    "name": "Paris Le Bourget",
+                    "id": "129053609",
+                    "coordinate": "2.4425,48.971944",
+                    "image_url": null,
+                    "type": "Transportation",
+                    "icon": "cars"
+                },
+                {
+                    "sub_poi_type": "UniversityBuilding",
+                    "name": "University of Paris III: Sorbonne Nouvelle",
+                    "id": "208368423",
+                    "coordinate": "2.3538799286,48.8398017883",
+                    "image_url": null,
+                    "type": "Education",
+                    "icon": "education"
+                },
+                {
+                    "sub_poi_type": "TrainStation",
+                    "name": "Gare Montparnasse",
+                    "id": "207975788",
+                    "coordinate": "2.319467,48.840753",
+                    "image_url": null,
+                    "type": "Transportation",
+                    "icon": "cars"
+                }
+            ],
+            [
+                {
+                    "sub_poi_type": "UniversityBuilding",
+                    "name": "ESCP Europe Wirtschaftshochschule Berlin",
+                    "id": "208368668",
+                    "coordinate": "2.3807888031,48.8643989563",
+                    "image_url": null,
+                    "type": "Education",
+                    "icon": "education"
+                }
+            ]
+        ],
+        "QUICKSELECT_OPTIONS_LIMIT": 4
+    },
+    "QUICKFILTER_OFFSET": 10,
+    "QUICKFILTER_MIN_RESULTS": 10,
+    "POICARD_OFFSET": 8,
+    "POICARD_MIN_RESULTS": 14,
+    "requestId": "c2bab277-a6d1-48e6-a363-f6a9f33c0f00",
+    "searchByCurrentLocation": false,
+    "warningCrisis": null
+}

@@ -1,0 +1,113 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "hotels.csv",
+  "tableSchema": {
+    "columns": [
+      {
+        "titles": "DATE DE CLASSEMENT",
+        "name": "date_classement",
+        "propertyUrl": "http://example.org/vocab/dateClassement"
+      },
+      {
+        "titles": "DATE DE PUBLICATION DE LETABLISSEMENT",
+        "name": "date_publication",
+        "propertyUrl": "http://example.org/vocab/datePublication"
+      },
+      {
+        "titles": "DÉPARTEMENT",
+        "name": "departement",
+        "propertyUrl": "http://example.org/vocab/departement"
+      },
+      {
+        "titles": "CLASSEMENT",
+        "name": "classement",
+        "propertyUrl": "http://example.org/vocab/classement"
+      },
+      {
+        "titles": "NOM COMMERCIAL",
+        "name": "nom_commercial",
+        "propertyUrl": "http://example.org/vocab/nomCommercial"
+      },
+      {
+        "titles": "ADRESSE",
+        "name": "adresse",
+        "propertyUrl": "http://example.org/vocab/adresse"
+      },
+      {
+        "titles": "CODE POSTAL",
+        "name": "code_postal",
+        "propertyUrl": "http://example.org/vocab/codePostal"
+      },
+      {
+        "titles": "COMMUNE",
+        "name": "commune",
+        "propertyUrl": "http://example.org/vocab/commune"
+      },
+      {
+        "titles": "TÉLÉPHONE",
+        "name": "telephone",
+        "propertyUrl": "http://example.org/vocab/telephone"
+      },
+      {
+        "titles": "COURRIEL",
+        "name": "courriel",
+        "propertyUrl": "http://example.org/vocab/courriel"
+      },
+      {
+        "titles": "SITE INTERNET",
+        "name": "site_internet",
+        "propertyUrl": "http://example.org/vocab/siteInternet"
+      },
+      {
+        "titles": "CAPACITÉ DACCUEIL (PERSONNES)",
+        "name": "capacite_accueil",
+        "propertyUrl": "http://example.org/vocab/capaciteAccueil"
+      },
+      {
+        "titles": "NOMBRE DE CHAMBRES",
+        "name": "nombre_chambres",
+        "propertyUrl": "http://example.org/vocab/nombreChambres"
+      },
+      {
+        "titles": "TYPOLOGIE ÉTABLISSEMENT",
+        "name": "typologie_etablissement",
+        "propertyUrl": "http://example.org/vocab/typologieEtablissement"
+      },
+      {
+        "titles": "CATÉGORIE",
+        "name": "categorie",
+        "propertyUrl": "http://example.org/vocab/categorie"
+      },
+      {
+        "titles": "MENTION",
+        "name": "mention",
+        "propertyUrl": "http://example.org/vocab/mention"
+      },
+      {
+        "titles": "TYPE DE SÉJOUR",
+        "name": "type_sejour",
+        "propertyUrl": "http://example.org/vocab/typeSejour"
+      },
+      {
+        "titles": "NOMBRE DEMPLACEMENTS",
+        "name": "nombre_emplacements",
+        "propertyUrl": "http://example.org/vocab/nombreEmplacements"
+      },
+      {
+        "titles": "NOMBRE DUNITES DHABITATION",
+        "name": "nombre_unites_habitation",
+        "propertyUrl": "http://example.org/vocab/nombreUnitesHabitation"
+      },
+      {
+        "titles": "NOMBRE DE LOGEMENTS",
+        "name": "nombre_logements",
+        "propertyUrl": "http://example.org/vocab/nombreLogements"
+      },
+      {
+        "titles": "geo",
+        "name": "geo",
+        "propertyUrl": "http://example.org/vocab/geo"
+      }
+    ]
+  }
+}

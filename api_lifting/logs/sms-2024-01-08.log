@@ -1,0 +1,949 @@
+2024-01-08 00:02:41 ["ukrvah1aukhbn"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:02:41 ["ukrvah1aukhbn"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:02:41 ["ukrvah1aukhbn"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:02:41 ["ukrvah1aukhbn"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:02:41 ["ukrvah1aukhbn"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:02:41 ["ukrvah1aukhbn"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix : &lt;http://ns.inria.fr/sparql-micro-service/api#&gt;
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  ?serviceHotel schema:name ?serviceHotelName .
+}
+
+2024-01-08 00:02:41 ["ukrvah1aukhbn"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:02:41 ["ukrvah1aukhbn"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:02:41 ["ukrvah1aukhbn"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:02:41 ["ukrvah1aukhbn"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:02:41 ["ukrvah1aukhbn"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:02:41 ["ukrvah1aukhbn"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:02:56 ["5811iuvg0c34r"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:02:56 ["5811iuvg0c34r"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:02:56 ["5811iuvg0c34r"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:02:56 ["5811iuvg0c34r"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:02:56 ["5811iuvg0c34r"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:02:56 ["5811iuvg0c34r"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix : &lt;http://ns.inria.fr/sparql-micro-service/api#&gt;
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  ?serviceHotel schema:name ?serviceHotelName .
+}
+
+2024-01-08 00:02:56 ["5811iuvg0c34r"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:02:56 ["5811iuvg0c34r"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:02:56 ["5811iuvg0c34r"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:02:56 ["5811iuvg0c34r"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:02:56 ["5811iuvg0c34r"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:02:56 ["5811iuvg0c34r"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:03:20 ["0ip4ur8l47j71"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:03:20 ["0ip4ur8l47j71"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:03:20 ["0ip4ur8l47j71"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:03:20 ["0ip4ur8l47j71"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:03:20 ["0ip4ur8l47j71"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:03:20 ["0ip4ur8l47j71"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix : &lt;http://ns.inria.fr/sparql-micro-service/api#&gt;
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  ?serviceHotel schema:name ?serviceHotelName .
+}
+
+2024-01-08 00:03:20 ["0ip4ur8l47j71"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:03:20 ["0ip4ur8l47j71"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:03:20 ["0ip4ur8l47j71"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:03:20 ["0ip4ur8l47j71"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:03:20 ["0ip4ur8l47j71"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:03:20 ["0ip4ur8l47j71"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:04:08 ["q004kuhbai4hq"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:04:08 ["q004kuhbai4hq"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:04:08 ["q004kuhbai4hq"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:04:08 ["q004kuhbai4hq"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:04:08 ["q004kuhbai4hq"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:04:08 ["q004kuhbai4hq"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix : &lt;http://ns.inria.fr/sparql-micro-service/api#&gt;
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  
+}
+
+2024-01-08 00:04:08 ["q004kuhbai4hq"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:04:08 ["q004kuhbai4hq"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:04:09 ["q004kuhbai4hq"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:04:09 ["q004kuhbai4hq"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:04:09 ["q004kuhbai4hq"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:04:09 ["q004kuhbai4hq"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:04:17 ["10bpds3s9q7es"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:04:17 ["10bpds3s9q7es"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:04:17 ["10bpds3s9q7es"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:04:17 ["10bpds3s9q7es"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:04:17 ["10bpds3s9q7es"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:04:17 ["10bpds3s9q7es"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix : &lt;http://ns.inria.fr/sparql-micro-service/api#&gt;
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  ?serviceHotel schema:name ?serviceHotelName .
+}
+
+2024-01-08 00:04:17 ["10bpds3s9q7es"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:04:17 ["10bpds3s9q7es"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:04:17 ["10bpds3s9q7es"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:04:17 ["10bpds3s9q7es"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:04:17 ["10bpds3s9q7es"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:04:17 ["10bpds3s9q7es"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:06:21 ["ocnhk0trvv975"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:06:21 ["ocnhk0trvv975"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:06:21 ["ocnhk0trvv975"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:06:21 ["ocnhk0trvv975"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:06:21 ["ocnhk0trvv975"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:06:21 ["ocnhk0trvv975"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix : &lt;http://ns.inria.fr/sparql-micro-service/api#&gt;
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  ?serviceHotel schema:name ?serviceHotelName .
+}
+
+2024-01-08 00:06:21 ["ocnhk0trvv975"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:06:21 ["ocnhk0trvv975"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:06:21 ["ocnhk0trvv975"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:06:21 ["ocnhk0trvv975"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:06:21 ["ocnhk0trvv975"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:06:21 ["ocnhk0trvv975"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:07:18 ["ne9eqrb7o68ae"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:07:18 ["ne9eqrb7o68ae"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:07:18 ["ne9eqrb7o68ae"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:07:18 ["ne9eqrb7o68ae"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:07:18 ["ne9eqrb7o68ae"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:07:18 ["ne9eqrb7o68ae"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix : &lt;http://ns.inria.fr/sparql-micro-service/api#&gt;
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  ?serviceHotel schema:name ?serviceHotelName .
+}
+
+2024-01-08 00:07:18 ["ne9eqrb7o68ae"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:07:18 ["ne9eqrb7o68ae"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:07:18 ["ne9eqrb7o68ae"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:07:18 ["ne9eqrb7o68ae"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:07:18 ["ne9eqrb7o68ae"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:07:18 ["ne9eqrb7o68ae"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:07:37 ["1ki8j4fqbs4b7"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:07:37 ["1ki8j4fqbs4b7"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:07:37 ["1ki8j4fqbs4b7"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:07:37 ["1ki8j4fqbs4b7"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:07:37 ["1ki8j4fqbs4b7"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:07:37 ["1ki8j4fqbs4b7"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix : &lt;http://ns.inria.fr/sparql-micro-service/api#&gt;
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  ?serviceHotel schema:name ?serviceHotelName .
+}
+
+2024-01-08 00:07:37 ["1ki8j4fqbs4b7"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:07:37 ["1ki8j4fqbs4b7"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:07:37 ["1ki8j4fqbs4b7"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:07:37 ["1ki8j4fqbs4b7"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:07:37 ["1ki8j4fqbs4b7"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:07:38 ["1ki8j4fqbs4b7"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:08:22 ["129tlrj633pv8"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:08:22 ["129tlrj633pv8"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:08:22 ["129tlrj633pv8"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:08:22 ["129tlrj633pv8"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:08:22 ["129tlrj633pv8"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:08:22 ["129tlrj633pv8"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix : &lt;http://ns.inria.fr/sparql-micro-service/api#&gt;
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  ?serviceHotel schema:name ?serviceHotelName .
+}
+
+2024-01-08 00:08:22 ["129tlrj633pv8"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:08:22 ["129tlrj633pv8"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:08:22 ["129tlrj633pv8"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:08:22 ["129tlrj633pv8"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:08:22 ["129tlrj633pv8"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:08:22 ["129tlrj633pv8"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:10:10 ["v2lc63a64gsqp"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:10:10 ["v2lc63a64gsqp"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:10:10 ["v2lc63a64gsqp"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:10:10 ["v2lc63a64gsqp"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:10:10 ["v2lc63a64gsqp"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:10:10 ["v2lc63a64gsqp"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix : &lt;http://ns.inria.fr/sparql-micro-service/api#&gt;
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  ?serviceHotel schema:name ?serviceHotelName .
+}
+
+2024-01-08 00:10:10 ["v2lc63a64gsqp"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:10:10 ["v2lc63a64gsqp"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:10:10 ["v2lc63a64gsqp"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:10:11 ["v2lc63a64gsqp"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:10:11 ["v2lc63a64gsqp"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:10:11 ["v2lc63a64gsqp"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:10:18 ["euk2a9242jmft"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:10:18 ["euk2a9242jmft"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:10:18 ["euk2a9242jmft"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:10:18 ["euk2a9242jmft"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:10:18 ["euk2a9242jmft"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:10:18 ["euk2a9242jmft"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix : &lt;http://ns.inria.fr/sparql-micro-service/api#&gt;
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  ?serviceHotel schema:name ?serviceHotelName .
+}
+
+2024-01-08 00:10:18 ["euk2a9242jmft"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:10:18 ["euk2a9242jmft"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:10:18 ["euk2a9242jmft"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:10:18 ["euk2a9242jmft"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:10:18 ["euk2a9242jmft"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:10:18 ["euk2a9242jmft"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:10:33 ["o3rcvfq7blnoi"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:10:33 ["o3rcvfq7blnoi"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:10:33 ["o3rcvfq7blnoi"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:10:33 ["o3rcvfq7blnoi"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:10:33 ["o3rcvfq7blnoi"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:10:33 ["o3rcvfq7blnoi"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix : &lt;http://ns.inria.fr/sparql-micro-service/api#&gt;
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  ?serviceHotel schema:name ?serviceHotelName .
+}
+
+2024-01-08 00:10:33 ["o3rcvfq7blnoi"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:10:33 ["o3rcvfq7blnoi"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:10:34 ["o3rcvfq7blnoi"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:10:34 ["o3rcvfq7blnoi"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:10:34 ["o3rcvfq7blnoi"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:10:34 ["o3rcvfq7blnoi"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:10:38 ["8m6tvbuga01on"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:10:38 ["8m6tvbuga01on"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:10:38 ["8m6tvbuga01on"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:10:38 ["8m6tvbuga01on"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:10:38 ["8m6tvbuga01on"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:10:38 ["8m6tvbuga01on"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix : &lt;http://ns.inria.fr/sparql-micro-service/api#&gt;
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  ?serviceHotel schema:name ?serviceHotelName .
+}
+
+2024-01-08 00:10:38 ["8m6tvbuga01on"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:10:38 ["8m6tvbuga01on"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:10:38 ["8m6tvbuga01on"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:10:38 ["8m6tvbuga01on"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:10:38 ["8m6tvbuga01on"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:10:38 ["8m6tvbuga01on"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:11:07 ["70j7g8883b7uo"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:11:07 ["70j7g8883b7uo"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:11:07 ["70j7g8883b7uo"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:11:07 ["70j7g8883b7uo"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:11:07 ["70j7g8883b7uo"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:11:07 ["70j7g8883b7uo"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix : &lt;http://ns.inria.fr/sparql-micro-service/api#&gt;
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  ?serviceHotel schema:name ?serviceHotelName .
+}
+
+2024-01-08 00:11:07 ["70j7g8883b7uo"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:11:07 ["70j7g8883b7uo"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:11:07 ["70j7g8883b7uo"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:11:07 ["70j7g8883b7uo"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:11:07 ["70j7g8883b7uo"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:11:07 ["70j7g8883b7uo"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:11:35 ["480g65e470bki"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:11:35 ["480g65e470bki"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:11:35 ["480g65e470bki"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:11:35 ["480g65e470bki"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:11:35 ["480g65e470bki"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:11:35 ["480g65e470bki"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix : &lt;http://ns.inria.fr/sparql-micro-service/api#&gt;
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  ?serviceHotel schema:name ?localHotelName .
+}
+
+2024-01-08 00:11:35 ["480g65e470bki"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:11:35 ["480g65e470bki"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:11:35 ["480g65e470bki"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:11:35 ["480g65e470bki"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:11:35 ["480g65e470bki"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:11:35 ["480g65e470bki"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:24:33 ["nk541qeuko17p"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:24:33 ["nk541qeuko17p"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:24:33 ["nk541qeuko17p"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:24:33 ["nk541qeuko17p"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:24:33 ["nk541qeuko17p"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:24:33 ["nk541qeuko17p"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix : &lt;http://example.org/vocab/&gt;
+select * 
+where {
+  ?hotelAPI :name ?nomHotelAPI .
+}
+
+2024-01-08 00:24:33 ["nk541qeuko17p"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:24:33 ["nk541qeuko17p"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:24:33 ["nk541qeuko17p"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:24:33 ["nk541qeuko17p"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:24:33 ["nk541qeuko17p"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:24:33 ["nk541qeuko17p"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:33:28 ["ptifnk1kek8gk"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:33:28 ["ptifnk1kek8gk"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:33:28 ["ptifnk1kek8gk"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:33:28 ["ptifnk1kek8gk"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:33:28 ["ptifnk1kek8gk"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:33:28 ["ptifnk1kek8gk"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix : &lt;http://ns.inria.fr/sparql-micro-service/api#&gt;
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  ?hotelAPI schema:name ?nomHotelAPI .
+}
+
+2024-01-08 00:33:28 ["ptifnk1kek8gk"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:33:28 ["ptifnk1kek8gk"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:33:28 ["ptifnk1kek8gk"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:33:28 ["ptifnk1kek8gk"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:33:28 ["ptifnk1kek8gk"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:33:28 ["ptifnk1kek8gk"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:33:35 ["erriooh5uj2t9"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:33:35 ["erriooh5uj2t9"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:33:35 ["erriooh5uj2t9"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:33:35 ["erriooh5uj2t9"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:33:35 ["erriooh5uj2t9"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:33:35 ["erriooh5uj2t9"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix : &lt;http://ns.inria.fr/sparql-micro-service/api#&gt;
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  ?hotelAPI schema:name ?nomHotelAPI .
+}
+
+2024-01-08 00:33:35 ["erriooh5uj2t9"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:33:35 ["erriooh5uj2t9"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:33:35 ["erriooh5uj2t9"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:33:35 ["erriooh5uj2t9"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:33:35 ["erriooh5uj2t9"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:33:35 ["erriooh5uj2t9"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:37:12 ["330n7h3q00n56"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:37:12 ["330n7h3q00n56"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:37:12 ["330n7h3q00n56"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:37:12 ["330n7h3q00n56"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:37:12 ["330n7h3q00n56"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:37:12 ["330n7h3q00n56"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix : &lt;http://ns.inria.fr/sparql-micro-service/api#&gt;
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  ?hotelAPI schema:name ?nomHotelAPI .
+}
+
+2024-01-08 00:37:12 ["330n7h3q00n56"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:37:12 ["330n7h3q00n56"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:37:13 ["330n7h3q00n56"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:37:13 ["330n7h3q00n56"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:37:13 ["330n7h3q00n56"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:37:13 ["330n7h3q00n56"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:37:55 ["hfajah5be4do1"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:37:55 ["hfajah5be4do1"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:37:55 ["hfajah5be4do1"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:37:55 ["hfajah5be4do1"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:37:55 ["hfajah5be4do1"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:37:55 ["hfajah5be4do1"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix : &lt;http://ns.inria.fr/sparql-micro-service/api#&gt;
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  ?hotelAPI schema:name ?nomHotelAPI .
+}
+
+2024-01-08 00:37:56 ["hfajah5be4do1"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:37:56 ["hfajah5be4do1"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:37:56 ["hfajah5be4do1"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:37:56 ["hfajah5be4do1"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:37:56 ["hfajah5be4do1"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:37:56 ["hfajah5be4do1"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:39:23 ["vo23sklfhbdnp"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:39:23 ["vo23sklfhbdnp"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:39:23 ["vo23sklfhbdnp"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:39:23 ["vo23sklfhbdnp"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:39:23 ["vo23sklfhbdnp"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:39:23 ["vo23sklfhbdnp"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix : &lt;http://ns.inria.fr/sparql-micro-service/api#&gt;
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  ?hotelAPI schema:name ?nomHotelAPI .
+}
+
+2024-01-08 00:39:23 ["vo23sklfhbdnp"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:39:23 ["vo23sklfhbdnp"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:39:24 ["vo23sklfhbdnp"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:39:24 ["vo23sklfhbdnp"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:39:24 ["vo23sklfhbdnp"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:39:24 ["vo23sklfhbdnp"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:39:30 ["iij6jj1b7b8v8"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:39:30 ["iij6jj1b7b8v8"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:39:30 ["iij6jj1b7b8v8"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:39:30 ["iij6jj1b7b8v8"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:39:30 ["iij6jj1b7b8v8"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:39:30 ["iij6jj1b7b8v8"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix : &lt;http://ns.inria.fr/sparql-micro-service/api#&gt;
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  ?hotelAPI schema:name ?nomHotelAPI .
+}
+
+2024-01-08 00:39:30 ["iij6jj1b7b8v8"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:39:30 ["iij6jj1b7b8v8"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:39:30 ["iij6jj1b7b8v8"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:39:30 ["iij6jj1b7b8v8"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:39:30 ["iij6jj1b7b8v8"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:39:30 ["iij6jj1b7b8v8"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:40:16 ["s5rgncrficoga"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:40:16 ["s5rgncrficoga"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:40:16 ["s5rgncrficoga"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:40:16 ["s5rgncrficoga"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:40:16 ["s5rgncrficoga"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:40:16 ["s5rgncrficoga"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix : &lt;http://ns.inria.fr/sparql-micro-service/api#&gt;
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  ?hotelAPI schema:name ?nomHotelAPI .
+}
+
+2024-01-08 00:40:16 ["s5rgncrficoga"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:40:16 ["s5rgncrficoga"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:40:16 ["s5rgncrficoga"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:40:16 ["s5rgncrficoga"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:40:16 ["s5rgncrficoga"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:40:16 ["s5rgncrficoga"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:42:05 ["80r5opeqln8bl"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:42:05 ["80r5opeqln8bl"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:42:05 ["80r5opeqln8bl"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:42:05 ["80r5opeqln8bl"] Utils NOTICE: Query HTTP header "Content-Type" undefined.
+2024-01-08 00:42:05 ["80r5opeqln8bl"] Utils NOTICE: Query HTTP header "Accept": */*
+2024-01-08 00:42:05 ["80r5opeqln8bl"] Utils WARNING: Unsupported HTTP method OPTIONS
+2024-01-08 00:42:05 ["80r5opeqln8bl"] Utils NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:42:05 ["ir26hq0pei7ft"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:42:05 ["ir26hq0pei7ft"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:42:05 ["ir26hq0pei7ft"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:42:05 ["ir26hq0pei7ft"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:42:05 ["ir26hq0pei7ft"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+json,*/*;q=0.9
+2024-01-08 00:42:05 ["ir26hq0pei7ft"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix : &lt;http://ns.inria.fr/sparql-micro-service/api#&gt;
+prefix xsd: &lt;http://www.w3.org/2001/XMLSchema#&gt; 
+prefix rdf: &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt; 
+PREFIX schema: &lt;http://schema.org/#&gt;
+prefix geo: &lt;http://www.w3.org/2003/01/geo/wgs84_pos#&gt;
+SELECT * WHERE {
+  ?sub ?pred ?obj .
+}
+2024-01-08 00:42:05 ["ir26hq0pei7ft"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:42:05 ["ir26hq0pei7ft"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:42:05 ["ir26hq0pei7ft"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:42:05 ["ir26hq0pei7ft"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:42:05 ["ir26hq0pei7ft"] service NOTICE: Sending response with Content-Type: application/sparql-results+json
+2024-01-08 00:42:05 ["ir26hq0pei7ft"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:46:15 ["0qh75u352bg0p"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:46:15 ["0qh75u352bg0p"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:46:15 ["0qh75u352bg0p"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:46:15 ["0qh75u352bg0p"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:46:15 ["0qh75u352bg0p"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:46:15 ["0qh75u352bg0p"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix schema: &lt;http://schema.org/#&gt;
+prefix xsd: &lt;http://www.w3.org/2001/XMLSchema#&gt;
+select * 
+where {
+  ?hotelAPI schema:name ?nomHotelAPI .
+}
+
+2024-01-08 00:46:15 ["0qh75u352bg0p"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:46:15 ["0qh75u352bg0p"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:46:15 ["0qh75u352bg0p"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:46:15 ["0qh75u352bg0p"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:46:15 ["0qh75u352bg0p"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:46:15 ["0qh75u352bg0p"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:49:07 ["pa9ed5ocg3fqb"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:49:07 ["pa9ed5ocg3fqb"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:49:07 ["pa9ed5ocg3fqb"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:49:07 ["pa9ed5ocg3fqb"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:49:07 ["pa9ed5ocg3fqb"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:49:07 ["pa9ed5ocg3fqb"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  ?hotelAPI schema:name ?nomHotelAPI .
+  ?hotelAPI schema:price ?prixHotelAPI .
+}
+
+2024-01-08 00:49:07 ["pa9ed5ocg3fqb"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:49:07 ["pa9ed5ocg3fqb"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:49:07 ["pa9ed5ocg3fqb"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:49:07 ["pa9ed5ocg3fqb"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:49:07 ["pa9ed5ocg3fqb"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:49:07 ["pa9ed5ocg3fqb"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:54:43 ["td1gemueqs7vd"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:54:43 ["td1gemueqs7vd"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:54:43 ["td1gemueqs7vd"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:54:43 ["td1gemueqs7vd"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:54:43 ["td1gemueqs7vd"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:54:43 ["td1gemueqs7vd"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  ?hotelAPI schema:name ?nomHotelAPI .
+  ?hotelAPI schema:price ?prixHotelAPI .
+  ?hotelAPI schema:rating ?ratingValue .
+}
+
+2024-01-08 00:54:43 ["td1gemueqs7vd"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:54:43 ["td1gemueqs7vd"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:54:44 ["td1gemueqs7vd"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:54:44 ["td1gemueqs7vd"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:54:44 ["td1gemueqs7vd"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:54:44 ["td1gemueqs7vd"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:54:58 ["orgbs339k81mh"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:54:58 ["orgbs339k81mh"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:54:58 ["orgbs339k81mh"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:54:58 ["orgbs339k81mh"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:54:58 ["orgbs339k81mh"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:54:58 ["orgbs339k81mh"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  ?hotelAPI schema:name ?nomHotelAPI .
+  ?hotelAPI schema:price ?prixHotelAPI .
+}
+
+2024-01-08 00:54:58 ["orgbs339k81mh"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:54:58 ["orgbs339k81mh"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:54:58 ["orgbs339k81mh"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:54:58 ["orgbs339k81mh"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:54:58 ["orgbs339k81mh"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:54:58 ["orgbs339k81mh"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:56:57 ["pr0ctl82hp680"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:56:57 ["pr0ctl82hp680"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:56:57 ["pr0ctl82hp680"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:56:57 ["pr0ctl82hp680"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:56:57 ["pr0ctl82hp680"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:56:57 ["pr0ctl82hp680"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  ?hotelAPI schema:name ?nomHotelAPI .
+  ?hotelAPI schema:price ?prixHotelAPI .
+  ?hotelAPI schema:starRating ?ratingValue .
+}
+
+2024-01-08 00:56:57 ["pr0ctl82hp680"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:56:57 ["pr0ctl82hp680"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:56:58 ["pr0ctl82hp680"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:56:58 ["pr0ctl82hp680"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:56:58 ["pr0ctl82hp680"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:56:58 ["pr0ctl82hp680"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:57:45 ["hnfaq7bvcp86f"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:57:45 ["hnfaq7bvcp86f"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:57:45 ["hnfaq7bvcp86f"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:57:45 ["hnfaq7bvcp86f"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:57:45 ["hnfaq7bvcp86f"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:57:45 ["hnfaq7bvcp86f"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  ?hotelAPI schema:name ?nomHotelAPI .
+  ?hotelAPI schema:price ?prixHotelAPI .
+  ?hotelAPI schema:starRating ?ratingValue .
+}
+
+2024-01-08 00:57:45 ["hnfaq7bvcp86f"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:57:45 ["hnfaq7bvcp86f"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:57:45 ["hnfaq7bvcp86f"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:57:45 ["hnfaq7bvcp86f"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:57:45 ["hnfaq7bvcp86f"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:57:45 ["hnfaq7bvcp86f"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 00:59:10 ["k52t5ck3nmisl"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 00:59:10 ["k52t5ck3nmisl"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 00:59:10 ["k52t5ck3nmisl"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 00:59:10 ["k52t5ck3nmisl"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 00:59:10 ["k52t5ck3nmisl"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 00:59:10 ["k52t5ck3nmisl"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix schema: &lt;http://schema.org/#&gt;
+select * 
+where {
+  ?hotelAPI schema:name ?nomHotelAPI .
+  ?hotelAPI schema:price ?prixHotelAPI .
+  ?hotelAPI schema:starRating ?ratingValue .
+}
+
+2024-01-08 00:59:10 ["k52t5ck3nmisl"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 00:59:10 ["k52t5ck3nmisl"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 00:59:10 ["k52t5ck3nmisl"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 00:59:10 ["k52t5ck3nmisl"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 00:59:10 ["k52t5ck3nmisl"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 00:59:10 ["k52t5ck3nmisl"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 01:02:12 ["ssad1u4kgm7id"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 01:02:12 ["ssad1u4kgm7id"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 01:02:12 ["ssad1u4kgm7id"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 01:02:12 ["ssad1u4kgm7id"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 01:02:12 ["ssad1u4kgm7id"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 01:02:12 ["ssad1u4kgm7id"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix schema: &lt;http://schema.org/#&gt;
+prefix : &lt;http://example.org/vocab/&gt;
+select * 
+where {
+  ?hotelAPI schema:name ?nomHotelAPI .
+  ?hotelAPI schema:price ?prixHotelAPI .
+  ?hotelAPI schema:starRating ?ratingValue .
+}
+
+2024-01-08 01:02:12 ["ssad1u4kgm7id"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 01:02:12 ["ssad1u4kgm7id"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-08-10&checkout=2024-08-11
+2024-01-08 01:02:12 ["ssad1u4kgm7id"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 01:02:13 ["ssad1u4kgm7id"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 01:02:13 ["ssad1u4kgm7id"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 01:02:13 ["ssad1u4kgm7id"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 01:22:03 ["9tbm0hpdv6v5f"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 01:22:03 ["9tbm0hpdv6v5f"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 01:22:03 ["9tbm0hpdv6v5f"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 01:22:03 ["9tbm0hpdv6v5f"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 01:22:03 ["9tbm0hpdv6v5f"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 01:22:03 ["9tbm0hpdv6v5f"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix schema: &lt;http://schema.org/#&gt;
+prefix : &lt;http://example.org/vocab/&gt;
+select * 
+where {
+  ?hotelAPI schema:name ?nomHotelAPI .
+  ?hotelAPI schema:price ?prixHotelAPI .
+  ?hotelAPI schema:starRating ?ratingValue .
+}
+
+2024-01-08 01:22:03 ["9tbm0hpdv6v5f"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 01:22:03 ["9tbm0hpdv6v5f"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-01-20&checkout=2024-01-23
+2024-01-08 01:22:05 ["9tbm0hpdv6v5f"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 01:22:05 ["9tbm0hpdv6v5f"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 01:22:05 ["9tbm0hpdv6v5f"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 01:22:05 ["9tbm0hpdv6v5f"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 01:22:25 ["nj4k1ev9fmqs6"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 01:22:25 ["nj4k1ev9fmqs6"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 01:22:25 ["nj4k1ev9fmqs6"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 01:22:25 ["nj4k1ev9fmqs6"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 01:22:25 ["nj4k1ev9fmqs6"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 01:22:25 ["nj4k1ev9fmqs6"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix schema: &lt;http://schema.org/#&gt;
+prefix : &lt;http://example.org/vocab/&gt;
+select * 
+where {
+  ?hotelAPI schema:name ?nomHotelAPI .
+  ?hotelAPI schema:price ?prixHotelAPI .
+  ?hotelAPI schema:starRating ?ratingValue .
+}
+
+2024-01-08 01:22:26 ["nj4k1ev9fmqs6"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 01:22:26 ["nj4k1ev9fmqs6"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-01-20&checkout=2024-01-23
+2024-01-08 01:22:26 ["nj4k1ev9fmqs6"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 01:22:26 ["nj4k1ev9fmqs6"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 01:22:26 ["nj4k1ev9fmqs6"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 01:22:26 ["nj4k1ev9fmqs6"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 01:22:27 ["srgi0it0nktti"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 01:22:27 ["srgi0it0nktti"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 01:22:27 ["srgi0it0nktti"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 01:22:27 ["srgi0it0nktti"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 01:22:27 ["srgi0it0nktti"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 01:22:27 ["srgi0it0nktti"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix schema: &lt;http://schema.org/#&gt;
+prefix : &lt;http://example.org/vocab/&gt;
+select * 
+where {
+  ?hotelAPI schema:name ?nomHotelAPI .
+  ?hotelAPI schema:price ?prixHotelAPI .
+  ?hotelAPI schema:starRating ?ratingValue .
+}
+
+2024-01-08 01:22:27 ["srgi0it0nktti"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 01:22:27 ["srgi0it0nktti"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-01-20&checkout=2024-01-23
+2024-01-08 01:22:27 ["srgi0it0nktti"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 01:22:27 ["srgi0it0nktti"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 01:22:27 ["srgi0it0nktti"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 01:22:27 ["srgi0it0nktti"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 01:22:28 ["8v7i4atembg3g"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 01:22:28 ["8v7i4atembg3g"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 01:22:28 ["8v7i4atembg3g"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 01:22:28 ["8v7i4atembg3g"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 01:22:28 ["8v7i4atembg3g"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 01:22:28 ["8v7i4atembg3g"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix schema: &lt;http://schema.org/#&gt;
+prefix : &lt;http://example.org/vocab/&gt;
+select * 
+where {
+  ?hotelAPI schema:name ?nomHotelAPI .
+  ?hotelAPI schema:price ?prixHotelAPI .
+  ?hotelAPI schema:starRating ?ratingValue .
+}
+
+2024-01-08 01:22:28 ["8v7i4atembg3g"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 01:22:28 ["8v7i4atembg3g"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-01-20&checkout=2024-01-23
+2024-01-08 01:22:28 ["8v7i4atembg3g"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 01:22:28 ["8v7i4atembg3g"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 01:22:28 ["8v7i4atembg3g"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 01:22:28 ["8v7i4atembg3g"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 01:22:44 ["195ptstt5g4h8"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 01:22:44 ["195ptstt5g4h8"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 01:22:44 ["195ptstt5g4h8"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 01:22:44 ["195ptstt5g4h8"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 01:22:44 ["195ptstt5g4h8"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 01:22:44 ["195ptstt5g4h8"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix schema: &lt;http://schema.org/#&gt;
+prefix : &lt;http://example.org/vocab/&gt;
+select * 
+where {
+  ?hotelAPI schema:name ?nomHotelAPI .
+  ?hotelAPI schema:price ?prixHotelAPI .
+  ?hotelAPI schema:starRating ?ratingValue .
+}
+
+2024-01-08 01:22:44 ["195ptstt5g4h8"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 01:22:44 ["195ptstt5g4h8"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-01-20&checkout=2024-01-23
+2024-01-08 01:22:44 ["195ptstt5g4h8"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 01:22:44 ["195ptstt5g4h8"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 01:22:44 ["195ptstt5g4h8"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 01:22:44 ["195ptstt5g4h8"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 01:22:45 ["805jl365s4i20"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 01:22:45 ["805jl365s4i20"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 01:22:45 ["805jl365s4i20"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 01:22:45 ["805jl365s4i20"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 01:22:45 ["805jl365s4i20"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 01:22:45 ["805jl365s4i20"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix schema: &lt;http://schema.org/#&gt;
+prefix : &lt;http://example.org/vocab/&gt;
+select * 
+where {
+  ?hotelAPI schema:name ?nomHotelAPI .
+  ?hotelAPI schema:price ?prixHotelAPI .
+  ?hotelAPI schema:starRating ?ratingValue .
+}
+
+2024-01-08 01:22:45 ["805jl365s4i20"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 01:22:45 ["805jl365s4i20"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-01-20&checkout=2024-01-23
+2024-01-08 01:22:45 ["805jl365s4i20"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 01:22:45 ["805jl365s4i20"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 01:22:45 ["805jl365s4i20"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 01:22:45 ["805jl365s4i20"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 01:24:40 ["i19km3lef4onj"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 01:24:40 ["i19km3lef4onj"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 01:24:40 ["i19km3lef4onj"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 01:24:40 ["i19km3lef4onj"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 01:24:40 ["i19km3lef4onj"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 01:24:40 ["i19km3lef4onj"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix schema: &lt;http://schema.org/#&gt;
+prefix : &lt;http://example.org/vocab/&gt;
+select * 
+where {
+  ?hotelAPI schema:name ?nomHotelAPI .
+  ?hotelAPI schema:price ?prixHotelAPI .
+  ?hotelAPI schema:starRating ?ratingValue .
+}
+
+2024-01-08 01:24:40 ["i19km3lef4onj"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 01:24:40 ["i19km3lef4onj"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-01-20&checkout=2024-01-23
+2024-01-08 01:24:40 ["i19km3lef4onj"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 01:24:40 ["i19km3lef4onj"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 01:24:40 ["i19km3lef4onj"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 01:24:40 ["i19km3lef4onj"] service NOTICE: --------- Done - SPARQL µS execution --------
+2024-01-08 01:26:28 ["1fip3hkljej69"] Context NOTICE: --------- Starting SPARQL micro-service --------
+2024-01-08 01:26:29 ["1fip3hkljej69"] service NOTICE: Query parameter (html special chars encoded) 'service': flightLabs/findHotels
+2024-01-08 01:26:29 ["1fip3hkljej69"] service NOTICE: Query parameter (html special chars encoded) 'querymode': sparql
+2024-01-08 01:26:29 ["1fip3hkljej69"] Utils NOTICE: Query HTTP header "Content-Type": application/x-www-form-urlencoded
+2024-01-08 01:26:29 ["1fip3hkljej69"] Utils NOTICE: Query HTTP header "Accept": application/sparql-results+xml
+2024-01-08 01:26:29 ["1fip3hkljej69"] service NOTICE: Client SPARQL query (html special chars encoded):
+prefix schema: &lt;http://schema.org/#&gt;
+prefix : &lt;http://example.org/vocab/&gt;
+select * 
+where {
+  ?hotelAPI schema:name ?nomHotelAPI .
+  ?hotelAPI schema:price ?prixHotelAPI .
+  ?hotelAPI schema:starRating ?ratingValue .
+}
+
+2024-01-08 01:26:29 ["1fip3hkljej69"] service NOTICE: Will query the Web API with arguments: Array
+(
+    [hotel_ID] => 27539733
+)
+
+2024-01-08 01:26:29 ["1fip3hkljej69"] service NOTICE: Web API query string: https://app.goflightlabs.com/retrieveHotel?access_key=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiYTU5MTM5NWE5MzdiOWIxM2JmMGIwZWUyNTk3MmEyZjRjZDNlNDRjOTc2ZjRjMzBhOGRmYmQwNTkzNjI3NzFlOTkxNmQzOTk1YjZlMjQ0NTciLCJpYXQiOjE3MDQ2MzAyMTQsIm5iZiI6MTcwNDYzMDIxNCwiZXhwIjoxNzM2MjUyNjE0LCJzdWIiOiIyMjA1MiIsInNjb3BlcyI6W119.jbkmIn3QldplJJOkdJh9CfcykTDpC2EQi-Gcuy2Wr24FT9nVm83LII0-TCOe4gkDI-DXf1hPkhysO8P1eMaQyQ&entityId=27539733&checkin=2024-01-20&checkout=2024-01-23
+2024-01-08 01:26:29 ["1fip3hkljej69"] service NOTICE: Executing SPARQL CONSTRUCT query from file: /services/flightLabs/findHotels/construct.sparql
+2024-01-08 01:26:29 ["1fip3hkljej69"] service NOTICE: Evaluating client SPARQL query against temporary graph...
+2024-01-08 01:26:29 ["1fip3hkljej69"] service NOTICE: Sending response with Content-Type: application/sparql-results+xml
+2024-01-08 01:26:29 ["1fip3hkljej69"] service NOTICE: --------- Done - SPARQL µS execution --------

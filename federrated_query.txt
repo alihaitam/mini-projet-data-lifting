@@ -1,0 +1,23 @@
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX schema: <http://schema.org/#>
+PREFIX : <http://example.org/vocab/>
+
+SELECT ?nomHotelLocal ?ratingValue ?adresseHotelLocal ?prixHotelAPI ?telephoneHotelLocal ?courrielHotelLocal
+WHERE {
+    # Récupération des données locales
+    ?hotelLocal :nomCommercial ?nomHotelLocal ;
+                :adresse ?adresseHotelLocal ;
+                :telephone ?telephoneHotelLocal ;
+                :courriel ?courrielHotelLocal .
+
+    # Récupération des données de l'API
+    SERVICE <http://localhost/service/flightLabs/findHotels&hotel_ID=27539733> {
+        ?hotelAPI schema:name ?nomHotelAPI ;
+                  schema:price ?prixHotelAPI ;
+                  schema:starRating ?ratingValue .
+    }
+    # Comparaison des noms des hôtels
+    FILTER (STR(?nomHotelLocal) = STR(?nomHotelAPI))
+}
+ORDER BY DESC(?ratingValue) ASC(?prixHotelAPI)
